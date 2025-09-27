@@ -1,0 +1,100 @@
+6 main continents in Olumol
+![[Pasted image 20250620181607.png]]
+## Centroso
+	- Largest
+	- Balanced environment (forests, deserts, cities, lakes, etc.)
+	- Renholt (capital)
+		- Districts
+			- City Square
+				- Large temple to Olo
+			- Royalty Row
+			- Veneman
+				- Fountain of Yoso here
+			- Deluge
+				- Dangerous area
+			- Pickers Pass
+				- Low income area
+			- Outside City Gates
+				- Shrine to baolo
+			- Rine Shore
+				- Massive port
+				- Old navy base 
+		- Royal road leads North South to Renholt
+		- Squallor's stool
+			- A bar in the Venemans district (rough part of town)
+		- Monastery of Balos
+			- God of nature
+	- Town of Slodding goes South
+		- Weatherbeaten, impoverished fishing town
+		- Borders the Southern Sea
+		- Founded by Merfolk, but driven out
+		- Stallion's Rest (Tavern)
+			- Speak with Styra
+			- Only tavern in slodding
+## Duwait
+	- Religious mecca 
+	- Home of priests and religious ruins and holy texts and stuff
+	- Balanced environment
+	- Capital is Andero (holy city)
+## Velan
+	- Mostly jungle, humid client, not a lot of mountains
+	- Oddly magical place
+	- Ballo, capital city 
+		- People go there to study strange happenings, experiment with bizarre magic, procure strange things
+## Iotus
+	- Edge of the world
+	- Lots of water
+	- Tresail is capital city
+## Exitas
+![[Pasted image 20250620181141.png]]
+	- Very large island
+	- Pretty diverse in forests
+	- Major trade hub
+	- Beraven is capital city
+		- ![[Pasted image 20250620174402.png]]
+		- Massive port town
+		- Stout Scoundrel
+			- Thieves guild is located here
+		- Bread ring 
+			- Expensive part of town
+		- Freebridge district
+			- Safest part of town
+			- Lots of shops
+			- Contains the Stout Scoundrel
+			- Pilfer's Potions
+		- Black Row
+			- Should avoid the black row
+			- Across the bridge
+			- Run by "The Rats" gang
+				- Literal rat folk
+		- The Finery
+			- A brothel
+			- Led by Mavis Treble
+			- Also does tasks for money (seems like it could be assassinations?)
+		- Stonelight district
+		- Citadel
+			- Has small squat manor house containing the mayor
+		- Violet Scar Lake
+			- Has lots of dead buried there
+			- Death Shepherds have setup a base around there
+	- Lundris
+		- A ghost town
+		- Had some human trafficking addresses-
+	- Nalo island
+		- Island near Exitas
+		- People do not go this island
+		- Houses one monolith structure
+	- Akyrie island
+		- Home to exclusively bird folk
+		- Main messaging center of the world
+- Nexo
+	- Frozen, very far north
+	- Military occupied place
+	- Prisons, military trainings, brutal, harsh, strict place
+	- Garat is capital city
+- Southern Sea
+	- Decidedly dangerous, thought to be cursed
+	- Ships go disappearing
+- Hollow Sea
+	- Between Centroso and Exitas
+	- One of the largest expanses of water in all of Olomol
