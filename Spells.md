@@ -217,3 +217,20 @@ _3rd-level evocation_
 A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+### Counterspell
+
+Source: Player's Handbook
+
+_3rd-level abjuration_
+
+**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell  
+**Range:** 60 feet  
+**Components:** S  
+**Duration:** Instantaneous
+
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+
+**_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

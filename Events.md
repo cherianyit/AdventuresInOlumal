@@ -36,6 +36,25 @@ Inside Beraven
 - Beezle says there is maybe one tunnel into the Black Row
 - We use the compass and find Bang is near the new docks
 - Ugla goes off and scouts and finds that the compass is pointing out to the ocean but does not see anything. About 40 km from the shore is a small grouping of islands (Barrel Islands)
+- We agree to their plan of going through the underground tunnels in the Black Row while Jeremy fights from the North, Maevis attacks from the West, and Melaphet steals a boat
+	- Jeremy successfully leads an attack
+	- Melaphet successfully steals a boat
+	- Maevis successfully districts across the black row
+	- We successfully make our way to the Black Row through the tunnel
+- We emerge in a basement with many barrels
+- We kill enemies in room above and notice that none of these people have good weapons given to them from Bang
+	- Implies these people were motivated by fear or a cult or of something greater
+- Kohoku finds a fake book with a ring with a ram's head on the front of it
+- Kohoku also finds a book that opens a gate
+- We find a note that is standardized and professionally done in infernal
+	- We think that Mavis, Beezle, Reezo, or someone at the finery may know the language
+- Another note reveals that Bang's instructions were to hold the Black Row but not advance further
+- Another note says "We must gain more allies for the greater purpose, for the army of shadow, to cloak this land in darkness" with an insignia of a skeletal snake (sign of Zello)
+- Both giants and one of the mages have skeletal snake tattoos
+- We set off the fuse with the gunpowder barrels and head to the boat
+- Onboard the boat are Melaphet, Tilly, and Anna Mae (a darling tiefling woman)
+- On the boat we ask Anna Mae about the infernal note we found
+	- The note says "The soul of Bang Elliot Charles Squigley is hereby forfeit and owned by Kwarzoth and Zello. Bang is obligated to sway souls and gain political power for Zello. Bang will be freed if he gathers 100,000 souls or if Kwarzoth's soul changes ownership"
 
 ### September 26, 2025
 On the road to Caladar

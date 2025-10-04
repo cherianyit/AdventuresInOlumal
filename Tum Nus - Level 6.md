@@ -47,6 +47,8 @@ Survival (Wis) [+4]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
+		- Fireball
+		- Chromatic Orb (Level 3)
 - Immovable Rod
 	- 2 foot long rod
 	- Has a button on one end. Can use an action to click the button which makes the rod not move.
@@ -104,6 +106,11 @@ Survival (Wis) [+4]
 -  Blank piece of paper
 	- Gotten from Bang's bandits north of Caladar
 	- Turned into a crane when written "Gust of Wind". Is following Kohoku
+- Ram's Head ring
+	- 3 charges, regains 1d3 at dawn each day
+	- Can expend a charge and an action to attack a spectral ram head at an enemy within 60 feet with +7 to the attack roll
+		- 2d10 force damage and target is pushed 10 feet away
+	- Can expend 1 to 3 to destroy an object within 60 feet instead that is not being worn or carried. Ring makes a strength check with a +5 bonus for each charge expended
 
 ## Equipment
 - Explorer’s Pack
@@ -212,11 +219,12 @@ Survival (Wis) [+4]
 	- Gives advantage on intelligence checks and saving throws
 - Bottle of Breath [Shroud]
 - Potion of Possibility [Kohoku]
+- Sandy Coloured Potion
 ## Money
 - CP: 
-- SP: 173
-- GP: 1130
-- PP: 326
+- SP: 203
+- GP: 1186
+- PP: 336
 
 # Feats/Abilities
 ## Passive
@@ -243,7 +251,7 @@ Offensive spell's range doubled, these spells ignore some cover, and you learn o
 - Immune to being enwebbed
 ## Active
 
-### Innate Sorcery [2/2]
+### Innate Sorcery [1/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -254,14 +262,14 @@ You can use this feature twice, and you regain all expended uses of it when you 
 ### Tides of Chaos [1/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
-### Sorcerous Restoration [1/1]
+### Sorcerous Restoration [0/1]
 Once per long rest, when you finish a short rest you can regain expended Sorcery Points equal to half your sorcerer level rounded down. 
 
 Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [4/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -276,13 +284,13 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [4/4]
+### Level 1 [2/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
 ### Level 2 [2/3]
 - Suggestion
 - Misty Step
-### Level 3 [3/3]
+### Level 3 [2/3]
 - Fireball
 - Counterspell

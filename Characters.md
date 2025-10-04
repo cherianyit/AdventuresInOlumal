@@ -263,3 +263,6 @@ Yulia Bendrana
 
 Jeremy Jeeves
 - Owner of General Jeeves General Goods in Beraven
+
+Kwarzoth 
+- Captain of the 9 hells who works under Zello
