@@ -77,6 +77,10 @@
 - Met with Clarence the miner overseer who notes that they had uncovered a new mineral called Numinous which Cillan greatly 
 - Killed the drider Belfane who was causing havoc in the mines. Should report back to Cillan
 
+### Exotic Fruits in Caladar
+- Yulia tells us Cillan is forcing Caladar to grow exotic fruits and its killing the farmers because it's not what should be growing here. Wants us to convince the farmers/Cillan to grow normal produce there
+- In exchange she will give us a potion of possibility that will allow us to roll with advantage every time we roll and force disadvantage everytime they roll
+- Kohoku agres to it and shakes her hand
 ## Personal Quests
 ### Study of magic
 - Shroud has a magical scar on their hand because they stole from a shop. Through daily study Tum Nus can help to break the curse
@@ -85,7 +89,7 @@
 ### Literacy
 - Tum Nus is illiterate but is learning! Through daily study Tum Nus can help to learn to read
 	- Kohoku helped Tum Nus learn to read a bit!
-- Current Literacy Marks: 2
+- Current Literacy Marks: 3
 
 ### Side Quests
 

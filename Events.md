@@ -1,3 +1,42 @@
+### October 3, 2025
+We all have dreams
+- Shroud dreams about their past with the death shepherds
+- Ugla dreams about some heroic heron who flew from Lundris to Anderro to deliver news the war ended
+- Kohoku dreams about Reezo giving some lecture and warning him about exploring some old tomb
+- Tum Nus dreams about the purple fae flowers and mother calling him in for dinner. Some large house shaking creature stomps near the house and she turns to Tum Nus and says to run
+- Baloney dreams of being large with strong psychic energy flowing from him and an all consuming anger
+The next day in Kaladar
+- We talk to the townspeople
+	- We convince them to grow the right crops instead of what Cillan wants
+	- We convince them to let us interrogate the hostage
+- We interrogate the hostage
+	- We ask if there's any secret way to get into Beraven
+		- Four gates around the city, Cillan's secret entrance, river from the ocean that has grates and guards, by boat, or elaborate tunnel system
+			- Entrances to the tunnels don't exist outside the city, but could be entered from the coast
+	- Where is Bang normally
+		- Bang normally stays at the tavern and has a few safehouses in the black row and has some secret location elsewhere
+	- Bang felt that the Shepherds aren't around anymore which is why Bang's crew is far out from Beraven
+	- Bang has waged war on the whole city
+	- Bang doesn't eat or sleep or get poisoned
+	- Why did you get involved with Bang's crew
+		- Safety, money, women, wine, own place, etc.
+	- Vast majority of forces are still in the city (couple of thousand)
+	- Where would you burn down to piss off Bang
+		- The stout scoundrel or his largest safe house in the black row (a large brick house that used to be a fabric softening place)
+- We talk to Yulia
+	- She informs us that numinous is stronger when it's purified (no other minerals in it)
+Outside of Beraven
+- Ugla scouts and sees smoke rising and activity on the wall between Beraven and the road. Sees that they appear to be armed townsfolk
+- Talking to the guy on the wall he says to go talk to Jeremy Jeeves who owns the general store and lets us in
+Inside Beraven
+- We meet Jeremy and he gets the kids and other people we're saving to Cillan's place
+- We make our way to The Finery to meet up with Mavis
+- Inside the finery we see Maevis and Beezle Frump
+- Bang and his thugs have taken over the Stonelight District, New Docks, and Black Row (eastern side of Beraven)
+- Beezle says there is maybe one tunnel into the Black Row
+- We use the compass and find Bang is near the new docks
+- Ugla goes off and scouts and finds that the compass is pointing out to the ocean but does not see anything. About 40 km from the shore is a small grouping of islands (Barrel Islands)
+
 ### September 26, 2025
 On the road to Caladar
 - We rip off the horse patch from the Robe of Useful Items
@@ -19,6 +58,25 @@ In Caladar
 	- We kill the spider and Tum Nus firebolts the other one which transforms into a weird vine thing and dies
 - We meet Yulia Bendrana
 	- She inspects Baloney's big emerald and noted that it's not from this plane, it's from the Fae wild
+	- She says she is technically from Iotus, but she seems to be Fae as well
+	- She says she will trade 3 potions for a bean and replenish Baloney's mana for a tragic memory of his. When he gives the memory her ear becomes pointy and slightly larger. Baloney no longer remembers anything that happened in Bumblestump forest [COMPLETED SUCCESSFULLY]
+	- She tells us that Bang came back from some trip and seemed crueler and what not
+	- She tells us that the reason exotic fruits and veggies are being grown here is because of Cillan and she wants us to convince the townspeople to grow other stuff in return for a potion of possibility [COMPLETED SUCCESSFULLY]
+	- Tum Nus makes a deal with her. In exchange for 0.5 pounds of Numinous (and 2 flakes) we get her to agree to experiment with it and share findings of it in our lifetime as a potion or something else that will aid us in our adventures [UNFULFILLED]
+	- She gives Fetrefe moss to Kohoku in exchange for info on its purposes
+	- On the way out Tum Nus notices a fae flower with massive purple petals in her house. As he looks at it the petals are undulating and he recalls his mother used to grow these. These flowers go where they want and it reappears by my feet. They are called Pick a lilies. Need to talk to Yulia about this
+We make our way North to confront Bang's gang
+- We kill them all, saving the two girls (Eliza and Nuri), and taking the archer hostage. We learn you can dip darts in the sleeping potion and then make people sleep with it
+- Find a small blank piece of parchment that has no creases on it
+	- Has some magic with it
+	- We wrote "gust of wind" on it and it turns into a bird
+- The bandit chief has a large tattoo on his back of a skeletal snake (sign of Zello)
+	- Tum Nus notices that this amount of ink looks fresh and would take a long time, but was done quickly. The tattoo also doesn't like it was done by hand
+		- We extract the tattoo and the body incinerates on the spot
+Back in Caladar
+- We go to the winking hog
+- We get the barkeep to help us out 
+	- She says Bang is trying to take all of Beraven
 ### September 6, 2025
 We are fighting the 3 death shepherd leaders
 - Teft seems to know all of us as well as Shroud

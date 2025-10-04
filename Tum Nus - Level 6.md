@@ -7,12 +7,12 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (3/38)
+HP (38/38)
 Armor Class [16] = [13 base] + [Dex mod - Armor of the Arachnid]
 Speed [40]
 Spell Save DC [16] = [8 base] + [Wisdom modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Wisdom modifier] + [Proficiency] 
-Hit Die [0/3]  [D6]
+Hit Die [3/3]  [D6]
 Inspiration Die [0]
 ## Saving Throws
 Strength [-1]
@@ -79,9 +79,11 @@ Survival (Wis) [+4]
 	- Salt and pepper diamond encrusted ring
 	- Allows the user to cast 1 free spell slot up to their max spell slot once per long rest
 	- Comes at some undisclosed downside from using magic
-- Bag of 11 beans
+- Bag of 9 beans
 	- Obtained from Bella and Theodore in Bumblestump Forest
 	- Emanates chaotic magic
+	- Baloney used 1 and it transformed into frogs
+	- Traded 1 to Yulia
 - Robe of Useful Items
 	- Can use an action to make a patch on it become the real thing
 		- 2 Dagger patches
@@ -99,6 +101,9 @@ Survival (Wis) [+4]
 		- 1 patch of a ladder
 - Everchanging Lock
 	- Lock shifts everytime you fail and increases the DC
+-  Blank piece of paper
+	- Gotten from Bang's bandits north of Caladar
+	- Turned into a crane when written "Gust of Wind". Is following Kohoku
 
 ## Equipment
 - Explorer’s Pack
@@ -125,6 +130,7 @@ Survival (Wis) [+4]
 	- Half damage to cold
 - Ring of Featherfall [ATTUNED]
 	- Featherfall perpetually active
+	- From Xyther
 - (2x) Maces
 - 1 Plate Armor
 - 1 Shield
@@ -155,17 +161,17 @@ Survival (Wis) [+4]
 	- 1 Eye Key
 - Rough copy of the Teleportation runes found in Lundris
 - Blackened Coin with Same Skull as Teleportation rune on it
+- Flayed skin of Bang's goon containing Zello tattoo
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
 - 1 Diamond worth 325 gold
 - Wyvern Tail
 - Wyvern tooth
-- 2 flakes of Numinous
 - 2 large Diamonds worth 500 each
 - 1 piece of ruby worth 150
 - 1 piece of sapphire worth 150
-- 3 pounds of raw Numinous
+- 2.5 pounds of raw Numinous
 - 4 Hagsbite doses worth of Frostsage
 	- Can be used to craft Hagsbite (2d10 poison damage)
 - 4 Hagsbite doses worth of Black Poppy
@@ -189,8 +195,8 @@ Survival (Wis) [+4]
 - Rations
 
 ## Spell Scrolls
-- Unknown Spell Scroll
-- Unknown Spell Scroll 
+- Necromantic Spell Scroll
+- Scroll of False Life 
 ## Potions
 - Health Potion (x2)
 	- 2D4 + 2 HP
@@ -200,13 +206,16 @@ Survival (Wis) [+4]
 	- Grants enlarge condition (grow size by 1)
 - Potion of Ethereal Nature
 	- For 3 turns/30 seconds become ethereal and have the ability to pass through any substance except lead
-- Unknown Potion
-- Potion of clear liquid with boba ball looking things in it
+- Potion of grave vigil
+	- Lasts for an hour and gives advantage on death saving throws
+- Potion of clarity
+	- Gives advantage on intelligence checks and saving throws
 - Bottle of Breath [Shroud]
+- Potion of Possibility [Kohoku]
 ## Money
 - CP: 
-- SP: 169
-- GP: 1120
+- SP: 173
+- GP: 1130
 - PP: 326
 
 # Feats/Abilities
@@ -242,7 +251,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [0/1]
+### Tides of Chaos [1/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -252,7 +261,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [0/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -274,6 +283,6 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 ### Level 2 [2/3]
 - Suggestion
 - Misty Step
-### Level 3 [1/3]
+### Level 3 [3/3]
 - Fireball
 - Counterspell

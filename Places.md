@@ -1,4 +1,4 @@
-6 main continents in Olumol
+26 main continents in Olumol
 ![[Pasted image 20250620181607.png]]
 ## Centroso
 	- Largest

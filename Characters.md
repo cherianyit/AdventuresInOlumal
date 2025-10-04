@@ -256,3 +256,10 @@ Reezo
 
 Vephess
 - Master of the Death Shepherds
+- Ilithid
+
+Yulia Bendrana
+- Witch/potions maker in Caladar
+
+Jeremy Jeeves
+- Owner of General Jeeves General Goods in Beraven
