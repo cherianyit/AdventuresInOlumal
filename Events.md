@@ -54,7 +54,13 @@ Inside Beraven
 - We set off the fuse with the gunpowder barrels and head to the boat
 - Onboard the boat are Melaphet, Tilly, and Anna Mae (a darling tiefling woman)
 - On the boat we ask Anna Mae about the infernal note we found
-	- The note says "The soul of Bang Elliot Charles Squigley is hereby forfeit and owned by Kwarzoth and Zello. Bang is obligated to sway souls and gain political power for Zello. Bang will be freed if he gathers 100,000 souls or if Kwarzoth's soul changes ownership"
+	- The soul of Bang “Elliot, Charles” Squiggly is hereby forfeit, bound to Captain Kwarzoth Greeva, Horned Devil of The 9 Hells, Servant to the Domain of Zello the Tyrant.In relinquishing the rights and thereby ownership of said soul, Bang now serves the infernal mistress of all the hells and planes wherein her dominion resides, and in doing so is eternally bound to her planes and purposeUpon such time as the soul is given over freely to this purpose, the vessel of said soul will be rewarded the following attributes as payment: 
+		1. Powers of the Hells 
+		2. Unnaturally Long Life 
+		3. Immunity to mortal necessities such as hunger, poison, disease, thirst, rest, and fear.
+		4. As a now servant to Kwarzoth and Zello, Bang’s new purpose may include but is not limited to the attracting of loyal souls to Zello’s army, corrupting souls of mortals to evil purpose, and accruing political and physical power within the mortal plane of Olumal
+		5. If Kwarzoth is killed in permanence the souls contract will pass unto Zello The Tyrant for ownership. Only if the quota of 100,000 souls pass into ownership by virtue of Bangs efforts or the soul of Kwarzoth is possessed by another entity, will the soul of Bang be free as before said contract was made
+		6. If the mortal form of Bang is destroyed, the soul will remain in possession of Kwarzoth, retained and imprisoned within the 9 Hells for further use
 
 ### September 26, 2025
 On the road to Caladar
