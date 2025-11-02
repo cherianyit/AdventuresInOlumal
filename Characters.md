@@ -173,6 +173,7 @@ Melaphet Mantle
 
 Lilith Pine
 - Works at "The Finery"
+- Is dead
 
 Ike Maller
 - Notorious for carrying vicious and volatile toxins
@@ -198,6 +199,7 @@ Gwen
 
 Naz
 - Ratfolk who is a part of Beezle's gang
+- Is dead
 
 Tilly
 - Ratfolk who is a part of Beezle's gang

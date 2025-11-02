@@ -8,12 +8,13 @@ Charisma [20/+5]
 
 ## Resources
 HP (38/38)
-Armor Class [16] = [13 base] + [Dex mod - Armor of the Arachnid]
+Armor Class [16] = [13 base] + [Dex mod - due to Armor of the Arachnid]
 Speed [40]
 Spell Save DC [16] = [8 base] + [Wisdom modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Wisdom modifier] + [Proficiency] 
 Hit Die [3/3]  [D6]
 Inspiration Die [0]
+
 ## Saving Throws
 Strength [-1]
 Dexterity [+3]
@@ -21,6 +22,7 @@ Constitution [+5]
 Intelligence [+1]
 Wisdom [+2]
 Charisma [+8]
+
 ## Skills
 Acrobatics (Dex) [+3]
 Animal Handling (Wis) [+2]
@@ -40,6 +42,8 @@ Religion (Int) [+1]
 Sleight of Hand (Dex) [+3]
 Stealth (Dex) [+3]
 Survival (Wis) [+4]
+
+# Status Effects
 # Items
 ## Magical Items
 - Bag of Holding
@@ -47,8 +51,7 @@ Survival (Wis) [+4]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
-		- Fireball
-		- Chromatic Orb (Level 3)
+
 - Immovable Rod
 	- 2 foot long rod
 	- Has a button on one end. Can use an action to click the button which makes the rod not move.
@@ -96,7 +99,6 @@ Survival (Wis) [+4]
 		- 2 sacks
 		- 2 windows
 		- 1 patch of 2 mastiffs
-		- 1 patch of a rowboat
 		- 1 patch of a spell scroll
 		- 1 patch of a cluster of gemstones
 		- 1 patch of a ram's head
@@ -106,11 +108,18 @@ Survival (Wis) [+4]
 -  Blank piece of paper
 	- Gotten from Bang's bandits north of Caladar
 	- Turned into a crane when written "Gust of Wind". Is following Kohoku
-- Ram's Head ring
+- Ram's Head ring [Ugla]
 	- 3 charges, regains 1d3 at dawn each day
 	- Can expend a charge and an action to attack a spectral ram head at an enemy within 60 feet with +7 to the attack roll
 		- 2d10 force damage and target is pushed 10 feet away
 	- Can expend 1 to 3 to destroy an object within 60 feet instead that is not being worn or carried. Ring makes a strength check with a +5 bonus for each charge expended
+- Winged Boots from Bang's hideout
+	- Allows user to fly
+- Gloves of swimming/climbing [Ugla]
+	- Allows user to swim/climb faster
+- Wand of Smiles [Baloney]
+	- Forces user to smile with some saving throw
+- Boots of Spiderclimb
 
 ## Equipment
 - Explorer’s Pack
@@ -142,6 +151,10 @@ Survival (Wis) [+4]
 - 1 Plate Armor
 - 1 Shield
 - 1 Greatsword
+- (4x) Bag of Numinous
+- Gold ring with blue diamond flecked with black engagement ring from Bang's hideout
+	- Worth 400 gold
+- 
 
 ## Key Items
 - Incriminating Documents
@@ -169,6 +182,8 @@ Survival (Wis) [+4]
 - Rough copy of the Teleportation runes found in Lundris
 - Blackened Coin with Same Skull as Teleportation rune on it
 - Flayed skin of Bang's goon containing Zello tattoo
+- Schematics for a pistol from Bang's Hideout
+- Maps from Cillan's study depicting Numinous locations across the globe
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -200,10 +215,11 @@ Survival (Wis) [+4]
 	- Cunty as fuck
 - Spyglass
 - Rations
-
 ## Spell Scrolls
 - Necromantic Spell Scroll
 - Scroll of False Life 
+- Scroll of Speak with Dead
+- Scroll of Vampiric Touch
 ## Potions
 - Health Potion (x2)
 	- 2D4 + 2 HP
@@ -213,18 +229,25 @@ Survival (Wis) [+4]
 	- Grants enlarge condition (grow size by 1)
 - Potion of Ethereal Nature
 	- For 3 turns/30 seconds become ethereal and have the ability to pass through any substance except lead
-- Potion of grave vigil
-	- Lasts for an hour and gives advantage on death saving throws
 - Potion of clarity
 	- Gives advantage on intelligence checks and saving throws
 - Bottle of Breath [Shroud]
 - Potion of Possibility [Kohoku]
-- Sandy Coloured Potion
+- Potion of Speed [Ugla]
+
+## Items requiring investigation
+- 1 bottle of milky, cummy fluid that glitters brightly
+	- From Cillan's desk
+- Black Amulet
+	- From Cillan's desk
+	- Caused Ugla to be possessed when he touched it
+	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
+
 ## Money
 - CP: 
 - SP: 203
-- GP: 1186
-- PP: 336
+- GP: 6216
+- PP: 456
 
 # Feats/Abilities
 ## Passive
@@ -251,7 +274,7 @@ Offensive spell's range doubled, these spells ignore some cover, and you learn o
 - Immune to being enwebbed
 ## Active
 
-### Innate Sorcery [1/2]
+### Innate Sorcery [2/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -262,14 +285,14 @@ You can use this feature twice, and you regain all expended uses of it when you 
 ### Tides of Chaos [1/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
-### Sorcerous Restoration [0/1]
+### Sorcerous Restoration [1/1]
 Once per long rest, when you finish a short rest you can regain expended Sorcery Points equal to half your sorcerer level rounded down. 
 
 Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [4/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -284,13 +307,13 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [2/4]
+### Level 1 [4/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
-### Level 2 [2/3]
+### Level 2 [3/3]
 - Suggestion
 - Misty Step
-### Level 3 [2/3]
+### Level 3 [3/3]
 - Fireball
 - Counterspell

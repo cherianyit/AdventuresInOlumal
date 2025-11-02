@@ -1,3 +1,119 @@
+### November 1, 2025
+We are in Cillan's office
+- We explore the other 3 rooms
+	- Room with a padlock
+		- Has transmutation, conjuration, and illusion magic in the room
+		- A vial of numinous in Baloney's pocket floats through the ceiling from his pocket
+		- Blight erupts from the floor and knocks out Tum Nus
+- A guard comes and Shroud impersonates Cillan. Shroud disperses the guards and we head to Maevis
+We enter The Finery
+- We talk to Maevis
+	- We tell her Cillan is a Rakshasa and about our ordeals in her manor
+- We talk to Anna Mae about the amulet we found in Cillan's office
+	- She confirms that it's a disgusting and awful item if it's able to talk to the hells
+	- Baloney transmits the infernal that the amulet emits to Anna Mae via telepathy so she can understand it
+		- She can understand "Where are you", "Is it done", and "Return at once". She says whoever is talking seems like a badass
+In the town square
+- Shroud impersonates Cillan and steps down with Maevis stepping up as the mayor of the city
+On the boat back to Renholt
+- The elf captain is a bitch
+- We are on a military vessel on our way back to Renholt
+- Kohoku reads a Book of Yasso to put Tum Nus to sleep. This evokes some memories of joy and Tum Nus rests well
+We arrive in Renholt
+- Shroud transforms back into themself, but Hendris already saw Cillan
+- We have a heroes welcome and the King and Queen award us medals of bravery. We are now the Guardians of Centroso. They also gift us Waycott Keep a permanent place to stay in Renholt. We also get 20,000 gold for all of us. In 3 days time we are also invited by the King and Queen for a banquet
+- We return the kids and were invited to dinner by their parents and given 200 gold
+### October 24, 2025
+We sail back to Beraven
+- The building we blew up with gunpowder has really destroyed a lot but miraculously has not killed anyone
+- We speak with Maevis
+	- She is leaving the fate of Cillan up to us
+At the finery
+- We rest up and do various things
+	- In the Book of Zello we learn about the assassination of King Jovis the 6th (King of Olumnal) by followers of Zello dated Q1865
+We attempt to infiltrate Cillan's manor
+- We see 3 guards on top of Cillan's walls
+- We decide we want to use a distraction. Ugla volunteers to use a cannon as a distraction
+- Kohoku convinces Jeremy Jeeves to set the cannon off for us
+- Shroud turns into Cillan to convince a guard to fuck off
+- We climb up some vines
+- Ugla finds there is someone on a higher floor
+- Baloney melds with stone and enters a locked room that turns out to be a washroom
+- He charms a guard to let him into a room
+	- The room contains many books and maps
+	- Numinous locations
+		- Velan
+			- No known numinous locations here
+		- Duwait
+			- They've discovered an area containing numinous
+		- Exitas
+			- They've discovered an area containing numinous
+		- Centroso
+			- Two marks with no notes on them
+				- 1 high up north near the coast
+				- 1 near Renholt near the mountains
+- Shroud lockpicks the door
+- Ugla flies up to the 4th floor and enters through a window
+	- He finds a million hats
+	- In the bedside tables Ugla finds a few sheets of parchment that are notices from Renholt asking about the taxes
+- Kohoku and Tum Nus go up the vines to the second floor
+- On the first floor Shroud intimidates a guard (Christopher) as Cillan and goes upstairs to meet Kohoku and Tum Nus
+- On the fourth floor, Ugla learns the room he is in is connected via stairs to Cillan's office. He hears someone who sounds like Cillan talking in the office. She is speaking in a different language
+	- Ugla finds that Cillan has a strangely shaped leg/foot
+- The rest of the party make it to the 3rd floor and listen to the door and hear Cillan speaking infernal and feel the thrum of arcana
+	- Door appears to be sealed by Arcane Lock
+	- Baloney disenchants the lock
+- We attack Cillan
+	- She's fucking strong
+	- AC 20
+	- Resistant to poison
+	- Grows into an antelope-esque thing
+		- Kohoku recognizes this as a Rakshasa, a kind of demon
+	- She flees
+- We search her room
+	- In one desk drawer
+		- 3 small sacks of numinous
+		- 1 bottle of milky, cummy fluid that glitters brightly
+	- In the other desk drawer
+		- Tum Nus detects dark necrotic magic in this drawer
+		- We tie a rope around the handle and open it from afar. A large amount of black smoke pours out of it and then dissipates
+		- Inside of the desk drawer is an amulet with a red ruby in the middle and a black metal chain. 
+			- Ugla picks it up and becomes possessed and strikes Tum Nus
+			- Baloney picks it up afterwards and rolls really well, takes some psychic damage, and feels as though he becomes stronger. He seems to have learned some magic
+			- Tum Nus investigates the amulet and finds it to be from the hells. There's liquid inside the gem. It speaks infernal to Baloney
+	- We also found 600 platinum, 750 gold, 1 sack of jewelry worth 125 gold, 1 large diamond
+	- In the room is a stone basin of water
+		- Tum Nus thinks this is a conduit of some kind used for magic, but is mundane right now
+		- Baloney DRINKS FROM THE FOUNTAIN and wonders what ritual went on here with both his emerald and the cursed amulet in the water
+		- He thinks about what this ritual could've been and sees in the reflection of the water columns of fire appear
+		- Appears to be a looking glass used for scrying
+
+
+### October 10, 2025
+We're sailing to the Barrel Islands
+- It is raining
+- Baloney transforms into a giant octopus and scouts
+- We persuade Beezle and Tilly into joining us, Melaphet and Anna Mae stay on the boat
+- We rip the rowboat patch off the cloak of many patches and row to the island
+- We use the immovable rod to keep the boat in place
+At the Barrel Islands
+- Bang is on the shore and we make our way to him
+	- He is chanting something and successfully summons a devil, Kwarzoth Greeva
+		- The Devil can absorb fire 
+- Tum Nus gets absolutely fucking bodied by a Devil fire attack
+	- This triggers a memory of Tum Nus' home getting destroyed by fire
+- We send Bang and Kwarzoth back to the hells
+	- The summoning circle Bang used appears to be 1 time use and it looks like he got assistance from someone else to make it
+- Ugla finds a ship hatch and we enter it
+	- We find a hideout
+		- Chest containing small bag of numinous, 1200 gold, 2 large healing potions, 1 minor, 2 spell scrolls, gold ring with blue diamond flecked with black, papers containing diagrams, long wooden stick, a pair of boots, a pair of gloves
+		- A note from Cillan explains she's fine with Bang's plans but to leave her and her numinous out of it
+		- We find Bang's journal
+			- He writes he's gonna see god tonight and lay waste to him if it's the last thing he does. Is going out on a boat to fight some God
+			- A few pages afterwards he writes an entry about not remembering what happened and describing the feeling of drowning and a brief mention of Zello, and never feeling more alive and yet so empty
+		- Letter from Vintish
+			- Poetry written in Goblin praising his ideas and abilities and plans
+
 ### October 3, 2025
 We all have dreams
 - Shroud dreams about their past with the death shepherds
