@@ -23,6 +23,28 @@ We arrive in Renholt
 - Shroud transforms back into themself, but Hendris already saw Cillan
 - We have a heroes welcome and the King and Queen award us medals of bravery. We are now the Guardians of Centroso. They also gift us Waycott Keep a permanent place to stay in Renholt. We also get 20,000 gold for all of us. In 3 days time we are also invited by the King and Queen for a banquet
 - We return the kids and were invited to dinner by their parents and given 200 gold
+We check out Waycott Keep
+- We can hire people to look after our keep
+- We can upgrade parts of our keep (alchemy lab, armoury, library, etc.)
+- Hindriss visits us
+	- We tell him everything about the Death Shepherds, Bang, and Cillan
+	- We mention an old book we're interested in to him
+		- Hindriss mentions The God books/the Void Texts
+			- Book of Revival
+				- Tome of human flesh
+			- Bookf of Destruction
+				- Tome of anhiliation
+			- Book of Control
+				- Black Dragon scales
+			- Book of creation 
+				- Starry and celestial
+			- Created by an evil god to destroy the world and make it again
+			- Hindriss does not say the evil god's name (Quallo)
+		- Hindriss mentions some previous member of the church was saying the end is nigh and the world has experienced cycles of destruction and rebirth multiple times (Hindriss dismisses this as ramblings)
+	- Hindriss tells us to visit Vincent 
+- Shroud studies the Book of Zello and reads about the Great War of Q3080
+- 
+
 ### October 24, 2025
 We sail back to Beraven
 - The building we blew up with gunpowder has really destroyed a lot but miraculously has not killed anyone
@@ -566,7 +588,7 @@ Reaching the docks
 
 ### May 2, 2025 
 
-Hendriss got us a vessel
+Hindriss got us a vessel
 - Ship is called Cassandra the 2nd
 - Large merchant vessel
 - Captain Eligath is a rock gnome
@@ -622,7 +644,7 @@ Was arrested
 Met with Malcolm
 - He is a were bear
 - He saw something strange the night the King and Queen left (shadowy figures)
-- Doesn't want to come home because of Tallis, will work with Hendriss
+- Doesn't want to come home because of Tallis, will work with Hindriss
 
 On the boat
 - Rook on the boat with us

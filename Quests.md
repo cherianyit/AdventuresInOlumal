@@ -119,7 +119,7 @@
 				- 5, 1600, Exitas
 			- 1 parchment from a shipping vessel when they carry cargo confirming delivery of cargo
 				- Express delivery to Exitas, the city of Braven, 2 pieces of cargo, addressed to Nicholas Sill aboard the vessel "The Gallant", signed by Captain Jericho (actual name Xyther Jericho)
-- Hendriss got us a ship called Cassandra the 2nd
+- Hindriss got us a ship called Cassandra the 2nd
 	- Captained by Captain Eligath
 	- Rook wants to join us on the boat
 - Should go to the docks and pay someone off to find the Gallant or to the mayor
