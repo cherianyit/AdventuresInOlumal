@@ -8,7 +8,7 @@ Charisma [20/+5]
 
 ## Resources
 HP (38/38)
-Armor Class [16] = [13 base] + [Dex mod - due to Armor of the Arachnid]
+Armour Class [17] = [13 base] + [Dex mod - due to Armour of the Arachnid] + [1 Ring of Protection ]
 Speed [40]
 Spell Save DC [16] = [8 base] + [Wisdom modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Wisdom modifier] + [Proficiency] 
@@ -42,6 +42,10 @@ Religion (Int) [+1]
 Sleight of Hand (Dex) [+3]
 Stealth (Dex) [+3]
 Survival (Wis) [+4]
+
+
+
+
 
 # Status Effects
 # Items
@@ -120,6 +124,13 @@ Survival (Wis) [+4]
 - Wand of Smiles [Baloney]
 	- Forces user to smile with some saving throw
 - Boots of Spiderclimb
+- Ring of Protection
+	- +1 to AC
+- Ring of Featherfall [ATTUNED]
+	- Featherfall perpetually active
+	- From Xyther
+- Shadow Steel Handcuffs
+	- Made from shadow
 
 ## Equipment
 - Explorer’s Pack
@@ -144,14 +155,12 @@ Survival (Wis) [+4]
 	- Obtained from Harpy Queen
 	- Can exist in colder climates
 	- Half damage to cold
-- Ring of Featherfall [ATTUNED]
-	- Featherfall perpetually active
-	- From Xyther
+- Ring of Protection
+	- +1 to AC
 - (2x) Maces
 - 1 Plate Armor
 - 1 Shield
 - 1 Greatsword
-- (4x) Bag of Numinous
 - Gold ring with blue diamond flecked with black engagement ring from Bang's hideout
 	- Worth 400 gold
 - 
@@ -187,13 +196,13 @@ Survival (Wis) [+4]
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
-- 1 Diamond worth 325 gold
 - Wyvern Tail
 - Wyvern tooth
 - 2 large Diamonds worth 500 each
 - 1 piece of ruby worth 150
 - 1 piece of sapphire worth 150
 - 2.5 pounds of raw Numinous
+- (4x) Small bag of Numinous
 - 4 Hagsbite doses worth of Frostsage
 	- Can be used to craft Hagsbite (2d10 poison damage)
 - 4 Hagsbite doses worth of Black Poppy
@@ -242,12 +251,14 @@ Survival (Wis) [+4]
 	- From Cillan's desk
 	- Caused Ugla to be possessed when he touched it
 	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
+- Unknown spell scroll
+	- Granted from Olephant
 
 ## Money
 - CP: 
-- SP: 203
-- GP: 6216
-- PP: 456
+- SP: 211
+- GP: 4976
+- PP: 496
 
 # Feats/Abilities
 ## Passive
@@ -260,14 +271,19 @@ Advantage on saving throws against spells
 ### Spell Sniper
 Offensive spell's range doubled, these spells ignore some cover, and you learn one offensive cantrip.
 
+### Sorcery Incarnate
+If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
+
+In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
+
 ### Equipment Passives
 [EQUIPMENT] Ring of cold resistance
 - Half damage to cold
 - Can exist in colder climates
 
-[EQUIPMENT] Ring of Featherfall 
+[EQUIPMENT] Ring of Protection
 - [ATTUNED]
-- Featherfall perpetually active
+- AC +1
 
 [EQUIPMENT]  Armour of the Arachnid
 - Immune to poison
@@ -292,7 +308,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [0/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -307,13 +323,18 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [4/4]
+### Level 1 [2/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
-### Level 2 [3/3]
+- Shield
+### Level 2 [2/3]
 - Suggestion
 - Misty Step
-### Level 3 [3/3]
+- Invisibility
+### Level 3 [0/3]
 - Fireball
 - Counterspell
+- Dispel Magic
+### Level 4 [0/1]
+- Sickening Radiance

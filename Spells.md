@@ -108,6 +108,20 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 **_At Higher Levels._** The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 ## Tier 1
 
+### Shield 
+Source: Player's Handbook
+
+_1st-level abjuration_
+
+**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the _[magic missile](http://dnd5e.wikidot.com/spell:magic-missile)_ spell  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** 1 round
+
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _[magic missile](http://dnd5e.wikidot.com/spell:magic-missile)_.
+
+**_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
 ### Chromatic Orb
 
 Source: Player's Handbook
@@ -200,6 +214,22 @@ _2nd-level conjuration_
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
+### Invisibility
+Source: Player's Handbook
+
+_2nd-level illusion_
+
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S, M (an eyelash encased in gum arabic)  
+**Duration:** Concentration, up to 1 hour
+
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
 ## Tier 3
 ### Fireball
 
@@ -230,5 +260,38 @@ _3rd-level abjuration_
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+
+**_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
+### Dispel Magic
+Source: Player's Handbook
+
+_3rd-level abjuration_
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+Choose any creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
+## Tier 4
+### Sickening Radiance
+Source: Xanathar's Guide to Everything
+
+_4th-level evocation_
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
+
+Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within range. The light spreads around corners, and it lasts until the spell ends.
+
+When a creature moves into the spell’s area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take 4d10 radiant damage, and it suffers one level of exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this spell go away when the spell ends.
 
 **_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

@@ -1,3 +1,88 @@
+### December 5, 2025
+We do a heist
+- In Tallis's room
+	- We find a chain necklace with the symbol of Nexo on it in Tallis's desk
+	- We also find a letter from Captain Kerick to Tallis
+		- “Talus. I understand your desire to visit your comrades, but I assure you Nexo is under excellent supervision and command. Your presence is not required at this time. Surely the King and Queen still require assistance, especially during this time of unrest. Please reconsider your visitation. This is not a command, you may do as you please, but the urgency seems unnecessary. I am told that military personal have increased greatly in the city, perhaps now is a time for digging in, showing your prowess, commanding this city in the ways I know you can. Take control of your position, with honour, with pride, and continue protecting our beloved royalty with strength and dignity. I hope this letter finds you well, may Olo guide you, and Corgo keep thy blade sharp. Sincerely, Cpt. Kerick”
+	- There is a chest with Evocation, Necromantic, and Transmutation magic
+		- We dispel the magic and open the chest
+		- Baloney barely dodges the mechanism with the thieves brand
+		- Inside the chest is:
+			- A long ceremonial knife/dagger that appears to be made of glass
+			- A pair of manacles used to restrain someone made of black steel
+			- 3 large coin purses
+			- 2 books: 
+				- Small leather bound journal
+				- A book of Quallo with that is seeping blood. Similar to the other book of Quallo we had found. Baloney notes the blood smells fresh and acrid
+	- We take various other documents
+	- We escape and head back to the Keep
+At the keep
+- Unbeknownst to the rest of the party Baloney uses the blood of the book of Quallo and smears it on the ruby necklace we got from Cillan. It makes the ruby leave the necklace and start floating before going back to the necklace
+- We compare the notes from Tallis regarding all the new recruits with the letter sent to the person who ordered our assassination
+- We get paranoid and detect magic around the keep
+	- Various neat little things
+	- In the cellar:
+		- There is a permanent teleportation circle
+		- There is a bit of illusion magic behind the racks of wine. Behind the illusion is a tunnel that leads outside the city limits
+- We check the rest of the items
+	- 200 platinum, 800 gold, 50 silver
+	- 2 signet rings with the sigil of King and Queen Cadros with their intials. Something odd is that they are not made of fine or high quality metal.
+	- Vial of blood
+	- Tum Nus tries to cut the bleeding book with the glass blade but the bleeding book bends to not be cut
+	- Baloney cuts his finger with the glass blade. Time starts to slow for him only. He hears a voice in his hear saying hello using his name directly. The creature has bony skeletal fingers and forces Baloney's fingers harder on the blade. It says there is some hidden thing about the blade but it will leave it to him as a surprise to figure out. A voice says something in a language he doesn't understand. Baloney's left middle finger is severed
+	- We heal his wound and Baloney tells us that the same thing that killed Rook caused him to sever his finger. Tum Nus inspects the blade and finds the school of magic in the pommel is the same as that in the stone we use to communicate with Hindriss
+	- Magical manacles that can't be dented from a hammer. Transmutation and Abjuration magic emanates from them. 
+		- Kohoku puts the handcuffs on. They are now fused together and his hands are locked together. Shroud recognizes this as shadow steel. We use moonbeam to free Kohoku and now have a pair of shadow steel handcuffs. 
+	- We open Talis's journal. It is written in an unknown language. We ask Rezzo and he says it is written in Abyssal
+
+### November 29, 2025
+We all do various things
+- Olephant's Store
+	- Turned in quest and now have a discount at his store and an unknown spell scroll
+- Used Bookstore
+	- Found a book on the Historical Battles of Olumnal
+	- Found a book called the Fey and the Folley
+	- Kohoku gets a book of essays of Ballos influence on Vellan
+- Kohoku gos to the temple
+	- Meditates and meets Ballo. Ballo gives Kohoku her blessing and attempts to warn him about something but the vision cuts off
+- Ugla goes to the blacksmith
+	- Gets the iron crown appraised and it's something called Lich iron (iron touched by undead magic)
+	- Blacksmith (Steven Stone) wants an 1/8th of a pound of numinous
+	- Blacksmith tells him about some guy named Joseph to figure out how to enhance the blade with the lich iron without losing the force properties
+	- Ugla runs into an old classmate named Squawk and attacks him because he was saying birds should be messengers. We learn Ugla's parents died suspiciously
+- Baloney goes to a druid
+	- He meets a druid there named Theadra and speaks to her about his emerald gemstone. He learns his emerald was not made naturally in the earth and is from an Emerald dragon. The druid guesses this is from his parent Dragon and says the emerald wants to go home. Believes this to be a key to some other plane (believes it to be the fae realm)
+	- Tells Baloney about some druidic group called the Tide Bringers in Iotus
+	- Baloney buys a living moss plant
+- Shroud meets with Vivian 
+	- Wants a way to get rid of the thieves brand. Vivian says she will have to bring the dirt on Tallis who is headed north soon as well as some rare jewels
+- Shroud finds a bunch of villagers crying over missing persons and talks to one named Cassie
+	- This lady has a missing son named Daniel. Finds that most people kidnapped were sorcerers seemingly. Also appears people are not safe even in their cellars which only have one entrance/exit
+	- Notable missing people
+		- Daniel Day Louise (half elf)
+		- Wallace Eron (local magician)
+		- Gemma Lowe (Cow person)
+		- Valerie Moss (Healer)
+- We upgrade the keep
+	- We have all 6 rooms with someone hired for each
+- We identify the strange moss shrub
+	- Tum Nus realized he's been attacked by this creature before. It is called a shambling mound
+At night
+- We go walking around at night to find who is being kidnapped
+- We commune with a rat who leads us to the Deluge area of Renholt
+- We hear a blood curling scream and someone has been kidnapped
+- Tallis and her guards appear. Ugla detects magic on her including conjuration magic
+- Baloney communes with a god via diviniation and we get the following excerpt:
+```
+Where and when it matters not 
+who a far more pressing thought 
+the one you know could take those sought of godly gifts and evil wrought 
+to seek and find no simple task 
+for far and wide their influence cast 
+but to the west their years have passed 
+but to the north their ships raise mast
+```
+- We break into Tallis' quarters while she's away
 ### November 1, 2025
 We are in Cillan's office
 - We explore the other 3 rooms

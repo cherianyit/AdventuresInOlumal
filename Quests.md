@@ -5,9 +5,7 @@
 - Look in her living quarters for a ledger or journal
 - Nasty business involving people that weren't guilty as she is quick to act
 - Reported that Malcolm is staying away so we can't use that
-### Olephant's gemstones
-- In exchange for a crystal ball (crystal of containment) I must get the following
-	- Either 1 diamond worth 300 gold or 400 gold worth of any other gemstones
+
 
 
 ## Personal Quests
@@ -42,6 +40,13 @@
 ### Courier to Strock
 - Talk to Meredith Strist in city square
 - Needs goods to deliver to Strock
+
+### Band of Gnolls
+- Band of gnolls near Fellding are blocking the road and needs to be dealt with
+- Given by the military of Renholt
+
+### Experimental Magics
+- Wants people to bring magical wares to experiment on
 
 ## Done Quests
 
@@ -140,3 +145,10 @@
 	- Found the rats, they pointed us to the Violet Scar lake as a lead of where to find Nathaniel
 - We rescued the children and killed the Death Shepherds
 - We reunite the children with their parents
+
+### Olephant's gemstones
+- In exchange for a crystal ball (crystal of containment) I must get the following
+	- Either 1 diamond worth 300 gold or 400 gold worth of any other gemstones
+- After turning in he gave the following rewards:
+	- Unspecified discount
+	- Unknown spell scroll
