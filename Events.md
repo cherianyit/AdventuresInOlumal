@@ -1,3 +1,19 @@
+### January 2 2026
+- We read the Frog Knight book
+	- About a wannabe knight who is a frog. The frog defends his kin from a hawk. At the back of the book is a quote that says "Keep dreaming little one".
+- We read the Historical Battles of Olumnal
+	- 4 main battles
+		- The God's War
+			- Zealots start fighting against the church of Ollo, a civil war that lasts for 50 years occurs (O1600 - O1650). During the war a new king took the throne who was a famous war hero (Captain Agreus Zello). Not of King Jovas the 6th royal lineage. Notoriously cruel and demanding, but was great at warmongering
+		- The Sundering
+			- O1800 ish. Queen Zello crushes a rebellion in the city of Ollo and it is renamed as the city Veskey
+		- The Rebels Riot
+			- Descendant of King Jovas, Herald Cain, leads a rebellion. Was quashed and they were destroyed. Herald became a slave of Zello and lived an abnormally long life
+		- The Reclamation War
+			- Disappearance of the city of Veskey including a large black tower that was seemingly important. Residents took this as an opportunity to destroy remaining forces of Zello. The city was reclaimed and named Numos. No traces of magic. A skeleton of a massive snake was found in the bottom of the crater. The year flips to AN 0.
+	- Current year is AN 1559
+- 
+
 ### December 5, 2025
 We do a heist
 - In Tallis's room
@@ -41,14 +57,14 @@ We all do various things
 	- Turned in quest and now have a discount at his store and an unknown spell scroll
 - Used Bookstore
 	- Found a book on the Historical Battles of Olumnal
-	- Found a book called the Fey and the Folley
+	- Found a book called the Frog Knight
 	- Kohoku gets a book of essays of Ballos influence on Vellan
 - Kohoku gos to the temple
 	- Meditates and meets Ballo. Ballo gives Kohoku her blessing and attempts to warn him about something but the vision cuts off
 - Ugla goes to the blacksmith
 	- Gets the iron crown appraised and it's something called Lich iron (iron touched by undead magic)
 	- Blacksmith (Steven Stone) wants an 1/8th of a pound of numinous
-	- Blacksmith tells him about some guy named Joseph to figure out how to enhance the blade with the lich iron without losing the force properties
+	- Blacksmith tells him about some guy named Yussef Yander to figure out how to enhance the blade with the lich iron without losing the force properties
 	- Ugla runs into an old classmate named Squawk and attacks him because he was saying birds should be messengers. We learn Ugla's parents died suspiciously
 - Baloney goes to a druid
 	- He meets a druid there named Theadra and speaks to her about his emerald gemstone. He learns his emerald was not made naturally in the earth and is from an Emerald dragon. The druid guesses this is from his parent Dragon and says the emerald wants to go home. Believes this to be a key to some other plane (believes it to be the fae realm)
@@ -357,7 +373,7 @@ We enter the fortress
 	- Says the master of the death shepherd is Vephess and lies deep below the castle
 	- Was questioned about ancient texts locations which is similar to what Rook is trying to find
 - In the next room that leads further in we see a script that says "Faith is not Belief" in Necron
-- We learnt the great city of Ollo was destroyed and Veski built over it (city of Zello). We learn that the city of Veski disappeared and then they rebuilt Numos over it in )1875
+- We learnt the great city of Ollo was destroyed and Veskey built over it (city of Zello). We learn that the city of Veskey disappeared and then they rebuilt Numos over it in )1875
 We descend into the fortress
 - We use the eye key and the door opens
 - We encounter a room with a chest in it
@@ -430,7 +446,7 @@ We make our way around the mountains to the river and reach Bumblestump forest
 	- Ugla is a fucking dumbass and we get spotted
 	- While running away we see someone in a black cloak with pale white skin, torn and battered armour
 - During the night we learn things reading while long resting
-	- City of Ollo became known as Veski due to Quallo and Zello taking over
+	- City of Ollo became known as Veskey due to Quallo and Zello taking over
 	- Book of Zello written in 3 languages. Lovingly talks about Ollo talking about him as all powerful and deserving. Referred to the year Ollo O85 as Quallo Q185 
 	- Tum Nus and Baloney talk about how Tum Nus is worried with Baloney's changes since reading the book of Zello, says that he will keep an eye on Baloney in case he sees him changing for the worse
 - We go back to the tower

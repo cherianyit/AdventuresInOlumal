@@ -117,13 +117,13 @@ Survival (Wis) [+4]
 	- Can expend a charge and an action to attack a spectral ram head at an enemy within 60 feet with +7 to the attack roll
 		- 2d10 force damage and target is pushed 10 feet away
 	- Can expend 1 to 3 to destroy an object within 60 feet instead that is not being worn or carried. Ring makes a strength check with a +5 bonus for each charge expended
-- Winged Boots from Bang's hideout
+- Winged Boots from Bang's hideout [Ugla]
 	- Allows user to fly
 - Gloves of swimming/climbing [Ugla]
 	- Allows user to swim/climb faster
 - Wand of Smiles [Baloney]
 	- Forces user to smile with some saving throw
-- Boots of Spiderclimb
+- Boots of Spiderclimb [ATTUNED]
 - Ring of Protection
 	- +1 to AC
 - Ring of Featherfall [ATTUNED]
@@ -131,6 +131,7 @@ Survival (Wis) [+4]
 	- From Xyther
 - Shadow Steel Handcuffs
 	- Made from shadow
+	- Can be unlocked by radiant magic
 
 ## Equipment
 - Explorer’s Pack
@@ -163,7 +164,6 @@ Survival (Wis) [+4]
 - 1 Greatsword
 - Gold ring with blue diamond flecked with black engagement ring from Bang's hideout
 	- Worth 400 gold
-- 
 
 ## Key Items
 - Incriminating Documents
@@ -288,6 +288,9 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 [EQUIPMENT]  Armour of the Arachnid
 - Immune to poison
 - Immune to being enwebbed
+
+[EQUIPMENT] Boots of Spiderclimb
+- Able to climb walls
 ## Active
 
 ### Innate Sorcery [2/2]
@@ -298,7 +301,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [0/1]
+### Tides of Chaos [1/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -308,7 +311,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [0/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -323,18 +326,18 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [2/4]
+### Level 1 [4/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [2/3]
+### Level 2 [3/3]
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [0/3]
+### Level 3 [3/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [0/1]
+### Level 4 [1/1]
 - Sickening Radiance
