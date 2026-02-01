@@ -1,19 +1,80 @@
-### January 2 2026
-- We read the Frog Knight book
-	- About a wannabe knight who is a frog. The frog defends his kin from a hawk. At the back of the book is a quote that says "Keep dreaming little one".
-- We read the Historical Battles of Olumnal
-	- 4 main battles
-		- The God's War
-			- Zealots start fighting against the church of Ollo, a civil war that lasts for 50 years occurs (O1600 - O1650). During the war a new king took the throne who was a famous war hero (Captain Agreus Zello). Not of King Jovas the 6th royal lineage. Notoriously cruel and demanding, but was great at warmongering
-		- The Sundering
-			- O1800 ish. Queen Zello crushes a rebellion in the city of Ollo and it is renamed as the city Veskey
-		- The Rebels Riot
-			- Descendant of King Jovas, Herald Cain, leads a rebellion. Was quashed and they were destroyed. Herald became a slave of Zello and lived an abnormally long life
-		- The Reclamation War
-			- Disappearance of the city of Veskey including a large black tower that was seemingly important. Residents took this as an opportunity to destroy remaining forces of Zello. The city was reclaimed and named Numos. No traces of magic. A skeleton of a massive snake was found in the bottom of the crater. The year flips to AN 0.
-	- Current year is AN 1559
-- 
+### January 31, 2026
 
+
+### January 2, 2026
+We read the Frog Knight book
+- About a wannabe knight who is a frog. The frog defends his kin from a hawk. At the back of the book is a quote that says 
+	- "Keep dreaming little one. Who knows what you will become. If a Frog can be a Knight, then surely, young Caramanth, you could become a Queen. Love Always, Uncle Errold".
+We read the Historical Battles of Olumnal
+- 4 main battles
+	- The God's War
+		- Zealots start fighting against the church of Ollo, a civil war that lasts for 50 years occurs (O1600 - O1650). During the war a new king took the throne who was a famous war hero (Captain Agreus Zello). Not of King Jovas the 6th royal lineage. Notoriously cruel and demanding, but was great at warmongering
+	- The Sundering
+		- O1800 ish. Queen Zello crushes a rebellion in the city of Ollo and it is renamed as the city Veskey
+	- The Rebels Riot
+		- Descendant of King Jovas, Herald Cain, leads a rebellion. Was quashed and they were destroyed. Herald became a slave of Zello and lived an abnormally long life
+	- The Reclamation War
+		- Disappearance of the city of Veskey including a large black tower that was seemingly important. Residents took this as an opportunity to destroy remaining forces of Zello. The city was reclaimed and named Numos. No traces of magic. A skeleton of a massive snake was found in the bottom of the crater. The year flips to AN 0.
+	- Current year is AN 1559
+We go to the blacksmith
+- Ugla picks up his new lich iron scimitar from Yusuf
+- Ugla shows the ritual dagger to Oliver and Yusuf.
+	- Yusuf notes that it has some magical properties to it. Notes it to be ceremonial or ritualistic and that he doesn't like touching or looking at it at all.
+- Baloney asks Yusuf to create him a ring using his finger and the Pariapt of Health
+We attend the banquet
+- Hindriss greets us and lets us keep our bag of holding
+- Ugla's saber is taken at coat check
+- Several notable people
+	- Judge Quiss
+		- Germaphobe and quite strict. Wants harsher punishments for thieves
+	- Chancelor of Coin, Cran Bellos
+		- Half orc man dressed in illustrious clothing, lots of gold ring, etc. Is already drunk. Bragging about current economic stability
+	- Osiry Draz
+		- Tiefling. Professor of the history of the arcana at Renholt University. Member of the royal council of Renholt. Is able to do magical carbon dating where she can tell when some magic is from. 
+	- Father Pench of the Church of Ollo
+- Kohoku and Tum Nus approaches Vincent and Osiry
+	- Osiry notes she has been on the council since before the current king and queen (76 years, Vincent notes he has been on the council longer than her). The council helps make decisions for Renholt and Centroso, and ultimately Olumnal.
+	- She describes her magic carbon dating as peeling back magical layers and notes her demon blood helped her in this endeavour, but could be learned over time.
+		- Tum Nus should try to learn this
+	- Baloney asks if she's carbon dated the city of Veski
+		- Tum Nus' insight check reveals she's being cagey about it because the topics of Zello and Quallo are weird. There is a glimmer in her eyes and its clear she finds it super interesting.
+	- She notes that there is some strange magic happening in Velan
+- Hindriss introduces Lord Euewen Hathwain guildmaster and council member of Duwait
+	- He talks to Ugla about random stuff
+- The king and queen are announced by Vincent
+	- A mediocre arcana check doesn't find anything
+- The notable people, the king and queen, Hindriss and Vincent, and our party go to a private dinner room
+	-  During the toast about all the successes in the last year
+		- Father Pench, Hindriss, the King and Queen are enthusiastic about the toast
+		- Judge Quiss is a bit tight lipped and apprehensive
+		- Lord Hathwain is interested in everyone at this point in time. Hathwain has sharp eyes and reading people. Seems to be very interested in our party
+		- Cran Bellos is smashed and has no clue what's really going on
+		- Osiry is side eyeing Vincent. She appears nervous and anxious and keeps looking at the door we came in at
+	- During dinner we tell the congregation about the mindflayer, only Osiry understands what a mindflayer
+	- Baloney tells the congregation that Cillan was a Rakshasa. Hindriss covers for him and Father Pench also covers.
+	- We talk about the Hags for fun
+	- We learn Father Pench is the newest addition to the council. Euewen seems annoyed that Pench has been added to the council, moreso that a person of religion has been added
+		- Father Pench notes that there has been a severe lack of the utilization of ancient texts to create hope and understanding and making societal progress via the texts
+			- Osiry is leaning towards Vincent, not saying anything though. Cran is smashed still. The King and Queen are smiling happily. Quiss is nodding along. Hindriss is purposefully not involved in the conversation and is busying himself with food
+	- Euewen notes that Duwait council has had a new council addition as well, Father Pinchy. Notes that religion is slipping back into politics
+	- Baloney says cut the shit and pulls out the Book of Quallo. Father Pench recoils and starts praying to his amulet of Ollo, Osiry stands up. We mention the Rakshasa again and that the King and Queen had disappeared. The King orders everyone else out except for the King and Queen, Vincent, Hindriss, and some guards. The Queen leaves the room. Baloney tells the King we found the book of Quallo in Tallis' room. Vincent holds person on Tum Nus because Tum Nus talks down to the King. Baloney convinces the King to talk and Vincent teleports himself, the King, Baloney, and 2 guards to talk privately. 
+	- Baloney talks with the King
+		- The King has Vincent cast a spell on Baloney to tell the truth. 
+		- Baloney tells the King we found the book in Tallis' room. 
+		- The king asks why we were in Tallis' room and Baloney says we were going off a hunch and is not willing to elaborate. 
+		- The king asks what else we found and Baloney mentions the ritualistic dagger. The king asks what our intentions were and Baloney says it was to bring it to their attention. 
+		- The king asks if he knew where Tallis was now which Baloney says she's headed North. The king confirms this. 
+		- The king asks what Baloney's expectation is surrounding next actions. Baloney says he wants answers and says he was hoping in a meeting of trusted advisors and powers that he could find allies and that when they went missing there was the creation of a lack of trust and other things. The king says it was foolish to bring this up tonight as the people here tonight are not his closest confidants, but people in power for specific things and who barely know him at all. 
+		- The king says he will send a group after Tallis
+		- The king says Baloney has put him in a predicament. Baloney says it's happening and they have to do something. The king says they're aware of it all already: missing people, shadows, the illitholich.
+	- They return to the main room and take the book of Quallo. Only Ugla stays for dessert
+	- We leave the dinner and head to a bar
+At the bar
+- Baloney debriefs us
+Shroud visits Vivian
+- Presents Tallis's book written in Abyssal and notes names are hard to translate. Finds Tallis' name is written there as well as someone named Illnir.
+Ugla and Euewen go for drinks at the bar
+- Eueuwen offers Ugla a job related to numinous and the new mines that have opened. Euewen notes that he is more of an investor in these places. The creators of these mines are uprooting farmland and other infrastructure and Euewen says this is going too far. Euewen says that Judge Quiss is involved in the opening of several of these mines and is using militia to open them. It is not an official mining operation and Quiss is trying to say the land is for everyone. No one wants to stop it because of the money involved and militia involved.
 ### December 5, 2025
 We do a heist
 - In Tallis's room
@@ -28,8 +89,8 @@ We do a heist
 			- A pair of manacles used to restrain someone made of black steel
 			- 3 large coin purses
 			- 2 books: 
-				- Small leather bound journal
-				- A book of Quallo with that is seeping blood. Similar to the other book of Quallo we had found. Baloney notes the blood smells fresh and acrid
+				- Small leather bound journal written in abyssal
+				- A book of Quallo that is seeping blood. Similar to the other book of Quallo we had found. Baloney notes the blood smells fresh and acrid
 	- We take various other documents
 	- We escape and head back to the Keep
 At the keep
@@ -69,7 +130,7 @@ We all do various things
 - Baloney goes to a druid
 	- He meets a druid there named Theadra and speaks to her about his emerald gemstone. He learns his emerald was not made naturally in the earth and is from an Emerald dragon. The druid guesses this is from his parent Dragon and says the emerald wants to go home. Believes this to be a key to some other plane (believes it to be the fae realm)
 	- Tells Baloney about some druidic group called the Tide Bringers in Iotus
-	- Baloney buys a living moss plant
+	- Baloney buys a living moss plant and names it Mossy
 - Shroud meets with Vivian 
 	- Wants a way to get rid of the thieves brand. Vivian says she will have to bring the dirt on Tallis who is headed north soon as well as some rare jewels
 - Shroud finds a bunch of villagers crying over missing persons and talks to one named Cassie

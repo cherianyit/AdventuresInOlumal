@@ -43,10 +43,6 @@ Sleight of Hand (Dex) [+3]
 Stealth (Dex) [+3]
 Survival (Wis) [+4]
 
-
-
-
-
 # Status Effects
 # Items
 ## Magical Items
@@ -229,6 +225,11 @@ Survival (Wis) [+4]
 - Scroll of False Life 
 - Scroll of Speak with Dead
 - Scroll of Vampiric Touch
+- Scroll of Divine Conversation
+	- Granted from Olephant
+	- Recognize that this is celestial adjacent and has arcanic symbols. Appears to be a scroll of some divinity based magic, but doesn't appear to be anything of nefarious origin or dealing damage. 
+	- 6th level spell
+	- For 10 minutes you can converse with a divine realm. pretty open ended
 ## Potions
 - Health Potion (x2)
 	- 2D4 + 2 HP
@@ -251,8 +252,6 @@ Survival (Wis) [+4]
 	- From Cillan's desk
 	- Caused Ugla to be possessed when he touched it
 	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
-- Unknown spell scroll
-	- Granted from Olephant
 
 ## Money
 - CP: 
@@ -301,7 +300,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [1/1]
+### Tides of Chaos [0/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -335,7 +334,7 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [3/3]
+### Level 3 [2/3]
 - Fireball
 - Counterspell
 - Dispel Magic

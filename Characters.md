@@ -268,3 +268,23 @@ Jeremy Jeeves
 
 Kwarzoth 
 - Captain of the 9 hells who works under Zello
+
+Father Pench
+- Head of the church of Ollo in Renholt
+- Part of the royal council of Renholt
+
+Judge Quiss
+- Germaphobe and quite strict. Wants harsher punishments for thieves
+- Part of the royal council of Renholt
+- Interest in Numinous mining
+
+Osiry Draz
+- Tiefling. Professor of the history of the arcana at Renholt University
+- Part of the royal council of Renholt
+
+ Cran Bellos
+ - Chancelor of Coin
+ - Part of the royal council of Renholt
+
+ Lord Euewen Hathwain
+ - Guildmaster and council member of Duwait
