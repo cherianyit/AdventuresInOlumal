@@ -148,7 +148,7 @@ Macy
 - Bartender at the Brawler's Ball
 
 Othir
-- Druidic order of Velan
+- Druidic order of Vilaan
 - Knows Baloney
 
 Nicholas Sill

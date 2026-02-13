@@ -6,8 +6,6 @@
 - Nasty business involving people that weren't guilty as she is quick to act
 - Reported that Malcolm is staying away so we can't use that
 
-
-
 ## Personal Quests
 ### Study of magic
 - Shroud has a magical scar on their hand because they stole from a shop. Through daily study Tum Nus can help to break the curse
@@ -23,10 +21,7 @@
 
 ### Burying William Chance
 - William Chance was reanimated and we put him down. We agreed to bury his bones in his favourite place, the place he was born, the Isle of Kilert
-### Pie contest
-- Bake your best pie (1 month from leaving Renholt date)
-- Winner receives lifetime supply of baking materials + 100 gold
-- Second place gets free pies
+
 ### Missing Husband
 - Warren Narrows missing
 - Wife is Titra Narrows
@@ -36,10 +31,14 @@
 ### River Monster
 - Renholt river
 - 2 hour trek
+- We take this quest
 
 ### Courier to Strock
 - Talk to Meredith Strist in city square
 - Needs goods to deliver to Strock
+- Agreed to deliver it
+- Package is not to be opened
+- Baloney cast divination on it and we got a cryptic poem
 
 ### Band of Gnolls
 - Band of gnolls near Fellding are blocking the road and needs to be dealt with
@@ -152,3 +151,10 @@
 - After turning in he gave the following rewards:
 	- Unspecified discount
 	- Unknown spell scroll
+
+### Pie contest
+- Bake your best pie (1 month from leaving Renholt date)
+- Winner receives lifetime supply of baking materials + 100 gold
+- Second place gets free pies
+- Baloney won best pie
+- Tum Nus wins most pies eaten

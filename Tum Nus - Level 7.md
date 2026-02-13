@@ -7,12 +7,12 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (38/38)
-Armour Class [17] = [13 base] + [Dex mod - due to Armour of the Arachnid] + [1 Ring of Protection ]
+HP (36/38)
+Armour Class [13] = [13 base]
 Speed [40]
-Spell Save DC [16] = [8 base] + [Wisdom modifier] + [Proficiency] 
-Spell Attack Bonus [8] = [Wisdom modifier] + [Proficiency] 
-Hit Die [3/3]  [D6]
+Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
+Spell Attack Bonus [8] = [Charisma modifier] + [Proficiency] 
+Hit Die [0/3]  [D6]
 Inspiration Die [0]
 
 ## Saving Throws
@@ -41,7 +41,7 @@ Persuasion (Cha) [+8]  [Proficiency]
 Religion (Int) [+1]
 Sleight of Hand (Dex) [+3]
 Stealth (Dex) [+3]
-Survival (Wis) [+4]
+Survival (Wis) [+2]
 
 # Status Effects
 # Items
@@ -51,6 +51,7 @@ Survival (Wis) [+4]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
+		- Fireball (Level 4)
 
 - Immovable Rod
 	- 2 foot long rod
@@ -80,10 +81,6 @@ Survival (Wis) [+4]
 	- Expands via the command word "Expand" and shrinks via the command word "Shrink"
 - Magical Cape of billowing
 	- Able to billow on command
-- Cursed Iron Ring of Magic Enhancement 
-	- Salt and pepper diamond encrusted ring
-	- Allows the user to cast 1 free spell slot up to their max spell slot once per long rest
-	- Comes at some undisclosed downside from using magic
 - Bag of 9 beans
 	- Obtained from Bella and Theodore in Bumblestump Forest
 	- Emanates chaotic magic
@@ -128,6 +125,29 @@ Survival (Wis) [+4]
 - Shadow Steel Handcuffs
 	- Made from shadow
 	- Can be unlocked by radiant magic
+- Ring of Ultimate Resistance [Attuned]
+	- Everyday choose one of the following to become immune to
+		- 1 Acid [Pearl] 
+		- 2 Cold [Tourmaline] 
+		- 3 Fire [Garnet] 
+		- 4 Force [Sapphire] 
+		- 5 Lightning [Citrine]
+		- 6 Necrotic [Jet] 
+		- 7 Poison [Amethyst] 
+		- 8 Psychic [Jade] 
+		- 9 Radiant [Topaz] 
+		- 10 Thunder [Spinel]
+-  Ring of cold resistance
+	- Obtained from Harpy Queen
+	- Can exist in colder climates
+	- Half damage to cold
+- Chime of Opening
+	- Fae touched item given by Olephant
+	- Able to open locks up to 80 feet away
+	- Reminds Tum Nus of a tune he heard in his youth
+- Amulet of the Drunkard
+	- Bought from Olephant
+	- Heals 4d4 + 4 hp on drinking alcohol once a day
 
 ## Equipment
 - Explorer’s Pack
@@ -135,7 +155,7 @@ Survival (Wis) [+4]
 	- 1d4 piercing
 - Flask
 - Torches
-- (5 uses) of Wyvern Poison
+- (5 uses) of Wyvern Poison (7d6 poison damage)
 - (2x) 50ft bags of rope
 - 5 torches
 - 1 set of climbing gear
@@ -148,10 +168,6 @@ Survival (Wis) [+4]
 	- Immune to poison
 	- Immune to being enwebbed
 	- AC = 13 + Dex [16]
--  Ring of cold resistance
-	- Obtained from Harpy Queen
-	- Can exist in colder climates
-	- Half damage to cold
 - Ring of Protection
 	- +1 to AC
 - (2x) Maces
@@ -231,8 +247,8 @@ Survival (Wis) [+4]
 	- 6th level spell
 	- For 10 minutes you can converse with a divine realm. pretty open ended
 ## Potions
-- Health Potion (x2)
-	- 2D4 + 2 HP
+- Health Potion (x1)
+	- 2D4 + 4 HP
 - Potion of Waterbreathing (x1)
 - Spider Venom Poison 
 - Potion of Growth
@@ -256,7 +272,7 @@ Survival (Wis) [+4]
 ## Money
 - CP: 
 - SP: 211
-- GP: 4976
+- GP: 2976
 - PP: 496
 
 # Feats/Abilities
@@ -275,24 +291,23 @@ If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcer
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
 
+### Equipment Attuned
+- Ring of Ultimate Resistance
+- Amulet of the Drunkard
+- Crystal of Containment
+
 ### Equipment Passives
-[EQUIPMENT] Ring of cold resistance
-- Half damage to cold
-- Can exist in colder climates
-
-[EQUIPMENT] Ring of Protection
+[EQUIPMENT] Ring of Ultimate Resistance
 - [ATTUNED]
-- AC +1
+- Immune to an element. Currently: Necrotic
 
-[EQUIPMENT]  Armour of the Arachnid
-- Immune to poison
-- Immune to being enwebbed
+[EQUIPMENT] Amulet of the Drunkard
+- [ATTUNED]
+- Heals 4d4 + 4 hp on drinking alcohol once a day
 
-[EQUIPMENT] Boots of Spiderclimb
-- Able to climb walls
 ## Active
 
-### Innate Sorcery [2/2]
+### Innate Sorcery [1/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -310,7 +325,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [3/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -325,18 +340,18 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [4/4]
+### Level 1 [3/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [3/3]
+### Level 2 [2/3]
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [2/3]
+### Level 3 [0/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [1/1]
+### Level 4 [0/1]
 - Sickening Radiance

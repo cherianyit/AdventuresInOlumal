@@ -1,4 +1,106 @@
+### February 12, 2026
+While camping at night
+- All of us except Baloney are attacked by a necrotic vacuum attack
+- Tum Nus in his mind is remembering running and feeling a pressure in his chest. A flash of brilliant green light blinds him even with his eyes closed and he realizes he's back home. The green light overwhelms him and he keeps running until he trips and awakens. He still can't see anything but feels a presence around him. Tum Nus is now awake
+- Kohoku hears the sound of stone moving on stone as a door opens that was closed for hundreds of years. He sees the ruins of a temple that's been abandoned for years. He looks down and feels his skin wrinkling and feeling himself dry up. He realizes this is Duwait
+- Shroud feels damp and heavy, and realizes they are in water and spinning. Suddenly they are standing in a plain with a single house, their childhood home. They see two gravestones at their feet. There is a girl crying and she says "it was your fault"
+- Ugla feels sleet pelting him as he is flying. As he flys through the clouds he can hear ice crystals forming on his wings. His wings freeze and he begins plummeting towards the ground. He recognizes it is Akirie. He hits the ground but is not dead. He sees two sets of adult owl feet directly in front of him and hears the voice of his mother. His mother says "You have disgraced us, you're nothing but a thug, a brutal, ugly, vile disappointment." He sees both of his parents standing in front of him disappointed and they both are stabbed by long black knives
+- Baloney casts font of moonlight or something and reveals 4 shadowy creatures 
+	- We defeat the shadowy creatures. We don't know where they came from
+	- From an Arcana check this seems similar to the kidnappings that occurred in Renholt. 
+	- From a History check this appears to be what Malcolm was talking about where he saw shadow like figures phase into pure stone 
+The next morning
+- We make our way to Ingson
+
+### February 7, 2026
+Baloney goes to see Osiry
+- He asks her about the origin of his gem
+- Osiry explains the gem is from a dragon from the Fae and could be used to open a rift into the Faewild. She says the closer you are to another gate, the better. She says the magic around the gem is either trying to let something in or let something out. She urges Baloney to not show other people this as powerful magic users would kill him for such an item
+- Osiry gives Baloney a rod with a bunch of coloured rings of gems. She explains the rod should be able to explain the magic that is being used or exuded. After this it should be able to make a log that Osiry can analyze
+Morning in the Keep
+- Shroud puts Tallis's translated paper in the journal and the journal back in the study amongst the other papers from Tallis' room
+- Tum Nus rubs one of the magic beans on an iron crown. Nothing is happening and the a book falls and hits him on the head. The book is a case study on foundational magics and curriculums. Another book hits me and it's a "Natural remedies and you". Tum Nus hears faint child like laughter at this. Tum Nus hits the tuning fork and the laughter stops and the tune starts to shift into a song and another bout of child like laughter. Tum Nus does a little thank you jig and hears quiet applause. 
+	- The Natural remedies and you book is homeopathy and is likely bogus
+	- The foundational magics book discusses more about structured rule based learning vs catered to each student. A book for teachers
+- Also find a book called tinkerers paradise, a whimsical introduction to magic infusion. Doesn't really describe how to do it, more describing how people who have the ability to do it an do it.
+We make our way on the road headed to fight the serpent
+- We encounter some guards who point us eastwards.
+At the lake
+- Arcana: We see no magical things in the immediate area, but there's a touch of something divine in the area that's old and "looked after"
+- Investigation: We see a bucket of worms and find the bucket has a blood stain on it. We see a smattering of erratic humanoid footsteps. At the river bank it looks like a rainstorm or flood or something has washed away a large portion of the shoreline on one side
+- Perception: Where the river forks we see that people are fishing. We can tell two of them are humans, one is a half elf, and one is a halfling
+- We approach them
+	- The four of them say they haven't heard of any monsters in unison. Tum Nus casts dispel magic and they're revealed to be strange lizard like tentacled creatures (deep scions). We are also attacked by water weirds
+	- During the fight Baloney is downed. Shroud shoots an arrow and kills the deep scion attacking baloney and a strange pale woman appears beside them. Only Shroud and Baloney (who is on death's door) sees her.
+	- One of them carries an oval green/dark green rock like thing that was flexible but looked like obsidian
+	- We note that deep scions answer to some other being and it's unclear why they are here. It is also unknown why they are working with water weirds
+On the Road
+- We meet the guards again
+	- We tell them to tell Hindriss we've dealt with the problem
+	- Shroud convinces the guards to give us their two horses
+- Shroud inspects the book of Zello and finds near the end there is some date called AV and it appears to be 
+At Night
+- Ugla also reads the book of Zello and notes there is an expectation of sacrifice for Zello
+- Tum Nus tries to perform for the strange laughter he heard before by juggling the books, backflipping, and hitting the chime on the books. He hears a distant sigh. He spends the rest of his watch thinking about how he can put on a bigger more interesting show
+- Shroud and Baloney chat about the woman. Shroud convinces Baloney that he must have been imagining things
+- The fire goes out and a dark presence emanates from around Baloney. All other party members than Baloney take necrotic damage
+
 ### January 31, 2026
+Ugla flies back from visiting Euewen
+- He ruminates on his family regarding his hatred of messenger bird culture and has a wild magic surge and finds he was able to channel something
+We go shopping
+- At Olephants store
+	- At the store Tum Nus hears a fae touched item chime and remembers something
+		- He is at a tavern outside and one of his parents are inside the tavern. He is with two other satyrs outside the tavern trying to catch a lizard that splits into multiple lizards when you catch it. One of his friends, Elryn, catches a lizard and he remembers a flute playing and it resembles the sound of the chime.
+		- We're able to rent it indefinitely for 800 gold and either give it back or something in return for it that is fae touched.
+		- Also bought the Amulet of the Drunkard
+	- Kohoku buys 2 rings
+		- Mindshield ring
+		- Ring of evasion (Ugla has it though)
+	- Shroud buys a scroll of raise dead and feels Borin's hand leave their shoulder and feel someone else's hand that isn't Olephant. Instead they feel the vague presence of a woman that feels like a god's presence
+- At Yusuf's store
+	- Baloney gets his finger ring back (the ring made out of his severed finger) as well as the periapt
+		- Tum Nus and Shroud find there is some queasy energy coming off of it
+We see the quest board
+- We notice that the fake king and queen Ethan and Mary are now missing as well
+- We notice that since Tallis disappeared there are no new missing peoples
+At the Keep
+- Vincent greets us outside our Keep
+	- Vincent says he hasn't seen worship of Quallo in his lifetime and offers assistance on investigating via connections or other arcane artifacts
+	- Vincent says that there is something he is concerned about and can't talk about. Vincent says that a long time ago his family swore an oath of loyalty to the royalty of centroso. His mother and grandmother were advisors to the royal family spanning some 700 or 800 years. He says that he is held to the oath and there are severe consequences for breaking it
+		- This implies what he is concerned about is related to the King and Queen. Notes that there are some inconsistencies
+	- Baloney asks about the Rakshasa
+		- Vincent says that the Rakshasa come from the Hells which is ruled over by Zello
+	- Hindriss has a similar concern as Vincent
+	- Tum Nus says we should have a word for if we should be careful of what we're saying
+		- Vincent's middle name is Vugh
+		- His favourite colour is violet
+		- Dish he enjoyed growing up is boiled potatoes and greens heavily salted
+	- Vincent tells us about him
+		- He grew up in Centroso but travelled quite a bit. His grandmother was originally from Tresail
+		- He's an elf who is 276 years old
+	- Vincent suggests that we don't chase after her as she has a strong base there
+The next day is the last day of Autumn
+- PIE CONTEST
+	- Pie baking contest
+		- Baloney makes a Goodberry and Numinous pie
+		- Kohoku and Ugla make a mushroom pie
+		- Shroud makes a rhubarb and raspberry pie
+		- Baloney wins one of the competitions and gets a golden rolling pin
+	- Pie eating contest
+		- Tum Nus wins the pie eating competition
+		- Hindriss presents Tum Nus with a glass pie
+- Shroud goes to talk to Viv
+	- Shroud gets a loose translation of Tallis's journal from Viv
+		- Demon lord has correspondence with Tallis and was discussing the opening of small portals. Tallis notes the pressure is on her so she's decided to go elsewhere
+- Delivery to Strock
+	- We get a package to deliver to Strock from Meredith Strist
+		- She runs a laundromat and has a package she wants delivered to her sister in Strock
+	- She really does not want us to open the package
+	- Baloney casts divination on the contents of the package by a deep and guttural draconic voice who gave the following poem:
+		- It glows and shines in sun and light, It holds a magic thats known of might, It moves and takes and bends and bites, It sits near kin with friends in sight
+- Baloney gets a message from the leader of his Grove Othir asking for assistance with whatever weird magic thing is happening in Vilaan 
+
 
 
 ### January 2, 2026
@@ -38,7 +140,7 @@ We attend the banquet
 		- Tum Nus should try to learn this
 	- Baloney asks if she's carbon dated the city of Veski
 		- Tum Nus' insight check reveals she's being cagey about it because the topics of Zello and Quallo are weird. There is a glimmer in her eyes and its clear she finds it super interesting.
-	- She notes that there is some strange magic happening in Velan
+	- She notes that there is some strange magic happening in Vilaan
 - Hindriss introduces Lord Euewen Hathwain guildmaster and council member of Duwait
 	- He talks to Ugla about random stuff
 - The king and queen are announced by Vincent
@@ -226,7 +328,7 @@ We attempt to infiltrate Cillan's manor
 - He charms a guard to let him into a room
 	- The room contains many books and maps
 	- Numinous locations
-		- Velan
+		- Vilaan
 			- No known numinous locations here
 		- Duwait
 			- They've discovered an area containing numinous
@@ -551,7 +653,7 @@ At Marlon's house
 	- After analysis the ring is determined to be a ring that influences all kinds of magic
 		- Ring gives any magic user 1 spell slot of any level they can use. The negative is vague, but there will be some cost to casting magic
 	- Also confesses they were branded when grabbing the ledger
-		- Tum Nus saw something similar in Velan. This appears to be a magical wound that remains on the person's flesh that will tell others they're a thief
+		- Tum Nus saw something similar in Vilaan. This appears to be a magical wound that remains on the person's flesh that will tell others they're a thief
 	- Ledger contains records that Nicholas Sill bought large quantities diamond dust (used for revivification), black onyx, and incense
 At the bar in Mosa
 - Henrique had met Nicholas Sill a couple weeks ago. He was wearing a pointy hat
@@ -710,8 +812,8 @@ Black Row
 ### Jun 20, 2025
 In the Stout Scoundrel on waking up
 - 3 elvish people roll up that are part of Baloney's druidic order
-	- Othir of the druidic order of Velan
-	- Takes Baloney to help out with the druidic order of Velan
+	- Othir of the druidic order of Vilaan
+	- Takes Baloney to help out with the druidic order of Vilaan
 
 Entering the Citadel
 - Home of the Mayor of Beraven (Cillan Meyer)

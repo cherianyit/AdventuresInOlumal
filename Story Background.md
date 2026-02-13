@@ -34,7 +34,7 @@
 	- Home of priests and religious ruins and holy texts and stuff
 	- Balanced environment
 	- Capital is Andero (holy city)
-- Velan
+- Vilaan
 	- Mostly jungle, humid client, not a lot of mountains
 	- Oddly magical place
 	- Ballo, capital city 
