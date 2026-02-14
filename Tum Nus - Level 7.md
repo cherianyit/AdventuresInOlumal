@@ -7,21 +7,21 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (36/38)
+HP (38/38)
 Armour Class [13] = [13 base]
 Speed [40]
 Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Charisma modifier] + [Proficiency] 
-Hit Die [0/3]  [D6]
+Hit Die [3/3]  [D6]
 Inspiration Die [0]
 
 ## Saving Throws
 Strength [-1]
 Dexterity [+3]
-Constitution [+5]
+Constitution [+5] = [2 base] + [Proficiency]
 Intelligence [+1]
 Wisdom [+2]
-Charisma [+8]
+Charisma [+8] = [5 base] + [Proficiency]
 
 ## Skills
 Acrobatics (Dex) [+3]
@@ -272,7 +272,7 @@ Survival (Wis) [+2]
 ## Money
 - CP: 
 - SP: 211
-- GP: 2976
+- GP: 2975
 - PP: 496
 
 # Feats/Abilities
@@ -307,7 +307,7 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 
 ## Active
 
-### Innate Sorcery [1/2]
+### Innate Sorcery [2/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -315,7 +315,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [0/1]
+### Tides of Chaos [1/1]
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -325,7 +325,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [3/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -340,18 +340,18 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [3/4]
+### Level 1 [4/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [2/3]
+### Level 2 [3/3]
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [0/3]
+### Level 3 [3/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [0/1]
+### Level 4 [1/1]
 - Sickening Radiance

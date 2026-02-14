@@ -1,3 +1,15 @@
+### February 13, 2026
+The next morning in Ingson
+- We head to Nathan's house to burn it down
+	- We find he has a wife and infant child and Baloney heals him
+We arrive at the Gloam Woods which borders the Teak Bane swamp
+- On the road we run into a random caravan who tells us that the town of Strock is a bit sadder now that the mine is being created and that they're working people to the bone for pennies
+- Shroud remembers they have travelled through the Gloam Woods before
+- While walking through the swamp Ugla breaks a branch and makes a large noise. Kohoku and Baloney hear things moving towards us in the muck. We see frog people appear. They don't speak common but Baloney casts speak with animals and is able to persuade them not to attack. Something spooks the frogs and they scatter. We are fighting a swamp skitter
+	- 
+- 
+
+
 ### February 12, 2026
 While camping at night
 - All of us except Baloney are attacked by a necrotic vacuum attack
@@ -10,7 +22,28 @@ While camping at night
 	- From an Arcana check this seems similar to the kidnappings that occurred in Renholt. 
 	- From a History check this appears to be what Malcolm was talking about where he saw shadow like figures phase into pure stone 
 The next morning
-- We make our way to Ingson
+- We make our way to Ingson, which is up a mountain
+- Appears to be a mining town
+- We head to the tavern "The Rockslide's Rest"
+	- Owned/operated by Fiona
+	- Hobgoblin outside named Ralph
+	- We chill at the bar
+		- Ugla hears that people have gone from a 9 hour workday to a 12 hour workday
+			- We find out they are mining iron ore
+		- A random bargoer named Nathan is an asshole and we poison him. We are kicked out of the bar
+	- Malcolm shows up and we go to his house
+		- We offer him a job at our keep as our gardener
+		- Malcolm tells us a new mine is opening in Strock and appears to be one of the ones Quiss opened 
+	- We go back to the bar and talk to Fiona
+		- We learn Dela is in charge of the mine here
+		- We learn people here left to Strock for the new mine 
+- We go to sleep
+	- Baloney hears a deep voice that he heard before when he had cast divination, a gutteral, metallic voice. He sees a wing and bright gleaming silver going past his vision. He hears people running across a plane and armor and steel clashing. He hears a tremendous roar and thousands of humanoids shattering in ice before awakening. He looks back and sees his wings have sprouted. He looks outside and sees 4 riders on horse back headed towards Strock in dark clothing.
+		- Baloney wakes Ugla up telepathically to follow them and Ugla goes off into the night
+		- Meanwhile Baloney prays and feels like the moon is looking at him. He hears a voice ask him what he seeks. Baloney responds he wants to know who the voice is to him. The voice (male) responds it is but a fraction/sliver of itself (himself). Baloney asks the voice what he is and the voice responds Baloney knows what he is. The voice says Baloney must find them and keep them hidden before "he" does. The voice says it is left in a void alongside his sister and warns the darkness approaches once more.
+		- Ugla loses track of the 4 humanoids on horse back and heads back
+- The next morning
+	- Baloney realizes what was spoken to him was in draconic
 
 ### February 7, 2026
 Baloney goes to see Osiry
@@ -99,7 +132,7 @@ The next day is the last day of Autumn
 	- She really does not want us to open the package
 	- Baloney casts divination on the contents of the package by a deep and guttural draconic voice who gave the following poem:
 		- It glows and shines in sun and light, It holds a magic thats known of might, It moves and takes and bends and bites, It sits near kin with friends in sight
-- Baloney gets a message from the leader of his Grove Othir asking for assistance with whatever weird magic thing is happening in Vilaan 
+- Baloney gets a message from the leader of his Grove Othir asking for assistance with whatever weird magic thing is happening in Vilaan
 
 
 
@@ -232,7 +265,7 @@ We all do various things
 - Baloney goes to a druid
 	- He meets a druid there named Theadra and speaks to her about his emerald gemstone. He learns his emerald was not made naturally in the earth and is from an Emerald dragon. The druid guesses this is from his parent Dragon and says the emerald wants to go home. Believes this to be a key to some other plane (believes it to be the fae realm)
 	- Tells Baloney about some druidic group called the Tide Bringers in Iotus
-	- Baloney buys a living moss plant and names it Mossy
+	- Baloney buys a living moss plant (shambling mound) and names it Mossy
 - Shroud meets with Vivian 
 	- Wants a way to get rid of the thieves brand. Vivian says she will have to bring the dirt on Tallis who is headed north soon as well as some rare jewels
 - Shroud finds a bunch of villagers crying over missing persons and talks to one named Cassie

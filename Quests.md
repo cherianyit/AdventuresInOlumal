@@ -28,11 +28,6 @@
 - From the rich part of town (Courts corner)
 - Last seen leaving for work yesterday morning at the water mill near the river
 
-### River Monster
-- Renholt river
-- 2 hour trek
-- We take this quest
-
 ### Courier to Strock
 - Talk to Meredith Strist in city square
 - Needs goods to deliver to Strock
@@ -158,3 +153,9 @@
 - Second place gets free pies
 - Baloney won best pie
 - Tum Nus wins most pies eaten
+
+### River Monster
+- Renholt river
+- 2 hour trek
+- We take this quest
+- Turned out to be 3 Deep Scions and 2 Water Weirds
