@@ -1,3 +1,45 @@
+### February 14, 2026
+The next morning in Strock
+- We enter Frist's Fashions
+	- There is a large chubby orange cat named "The Captain"
+	- She is very fashion forwards
+	- We deliver the package to her
+		- Baloney goes into the cellar with Hannah and reveals the inside the package is a large amethyst gemstone that is from a dragon. Baloney touches it and feels some magic similar to something that happened 
+		- Shroud notices the door to the cellar has closed without us noticing
+		- Hannah starts trying to attack Baloney. We notice the door is magically locked and open it and 
+		- The cat turns into Meredith Strist and casts stinking cloud
+		- We kill Hannah who has led Baloney into a hidden room in the cellar
+		- Meredith runs into the street and gets the guards attention. The guards see us down her. Tum Nus convinces them that they are not what they seem and they agree to investigate the house with us. We put the shadow cuffs on her.
+		- Baloney collects the Amethyst chunk and notes that he does not feel the same pull he did before
+		- In the cellar
+			- 1 bottle of Fancy wine
+			- 2 Healing potions
+			- 1 Potion of Waterbreathing
+			- 1 Potion of Hill Giant Strength
+			- 1 Bottle of Drow poison
+			- 400 gold
+			- 2 Large shards of amethyst
+			- 1 Large shard of topaz
+			- A journal
+				- Contains ingredients lists and recipes for potions of the stuff we found
+				- Discussion of research pertaining to dragon's stones. An ancient magical technology of harvesting dragon stones from gem dragons who find themselves on alternative planes of existences and how these stones want to return to their hosts at all costs. They are doing teleportation research using dragon stones of gem dragons to hop between planes of existence more easily. There is also specific research about this amethyst chunk. They had a breakthrough with this chunk and were able to choose a place themselves to teleport to, one of which places was the interior of the cage.
+			- 2 cages with spells of magical suppression that automatically open/lock from the outside
+		- We interrogate Meredith with the guard Brunt
+			- They isolated the teleportation magics by using a high level dispel magic. 
+			- She expected us to touch the amulet days ago to teleport to the cage
+			- They wanted Baloney's gem because it can go to the Faewilds (and that they would've killed Baloney)
+			- She and Hannah they are some kind of witch. They are planeswalkers from Pandemonium. They somehow got stuck on this plane and are trying to get back. Pandemonium is a plane of chaos, calamity, and insanity.
+			- The amethyst chunk was from Nexo and originally went to the abyssal plane/shadowlands.
+			- She says she heard about Baloney first from contacts in Velan
+			- She says Baloney would know what is happening in Velan
+			- She says there's gateways to most planes of existence all over the world. There are definitely planes for the Abyssal plane and the Faewild. One of these gates for the Faewild is in Velan. With enough magical force one could force their way through. This is likely what is causing issues in Velan itself. She notes that whatever is trying to get out is attracting Baloney's emerald which implies whatever it is is an Emerald dragon that is the owner of Baloney's stone
+			- We make a deal with Meredith
+				- She will not directly or indirectly harm any of us, our property, or our employees and will work under us. She will not harm others for the purpose of furthering her study.
+				- We will give her any information on dragon stones, their usage, their whereabouts. She will be fed, clothed, and payed 13 gold a week
+				- Once she reaches Pandemonium we will have 1 year of help from her before the deal is severed
+				- She will be working in the Keep 4 days a week Monday to Thursday, 10 sick days, 1 week of vacation per calendar year.
+			- We task Meredith with studying the teleportation circle
+			- Baloney and Meredith make a blood pact
 ### February 13, 2026
 The next morning in Ingson
 - We head to Nathan's house to burn it down
@@ -6,8 +48,19 @@ We arrive at the Gloam Woods which borders the Teak Bane swamp
 - On the road we run into a random caravan who tells us that the town of Strock is a bit sadder now that the mine is being created and that they're working people to the bone for pennies
 - Shroud remembers they have travelled through the Gloam Woods before
 - While walking through the swamp Ugla breaks a branch and makes a large noise. Kohoku and Baloney hear things moving towards us in the muck. We see frog people appear. They don't speak common but Baloney casts speak with animals and is able to persuade them not to attack. Something spooks the frogs and they scatter. We are fighting a swamp skitter
-	- 
-- 
+- We exit the swamp and see Strock in the distance
+Entering Strock
+- There are large gates outside of Strock. We speak to the guard Brunt and pass through them into the town
+	- A lot of these buildings seem old (200+ years old)
+- We enter the tavern
+	- The interior is very much fishing themed
+	- Working the bar is a shifter named Sheila Mims
+		- She notes that the town is being run dry due to all the workers coming in and drinking at discounted rates due to some dignitaries
+		- She pours Shroud an amazing whiskey made by a local distiller 
+		- She knows some person named Quinnibar (Quints Queries is his fruit shop near the piers)
+		- She also mentions someone named Hannah Strist who is a talented seemstress
+			- This is who we're delivering the package to for Meredith Strist
+		- Shroud speaks something in thieves cant to her and Sheila pretends not to understand and then slips a paper to Shroud
 
 
 ### February 12, 2026

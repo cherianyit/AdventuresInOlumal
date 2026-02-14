@@ -7,9 +7,9 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (38/38)
+HP (8/38)
 Armour Class [13] = [13 base]
-Speed [40]
+Movement Speed [40]
 Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Charisma modifier] + [Proficiency] 
 Hit Die [3/3]  [D6]
@@ -51,6 +51,7 @@ Survival (Wis) [+2]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
+		- Sickening Radiance (Level 4)
 		- Fireball (Level 4)
 
 - Immovable Rod
@@ -81,7 +82,7 @@ Survival (Wis) [+2]
 	- Expands via the command word "Expand" and shrinks via the command word "Shrink"
 - Magical Cape of billowing
 	- Able to billow on command
-- Bag of 9 beans
+- Bag of 9 beans [In Meredith's possession being studied at the keep]
 	- Obtained from Bella and Theodore in Bumblestump Forest
 	- Emanates chaotic magic
 	- Baloney used 1 and it transformed into frogs
@@ -205,6 +206,7 @@ Survival (Wis) [+2]
 - Flayed skin of Bang's goon containing Zello tattoo
 - Schematics for a pistol from Bang's Hideout
 - Maps from Cillan's study depicting Numinous locations across the globe
+- 
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -228,6 +230,11 @@ Survival (Wis) [+2]
 - Shards of Phyllactery Gem
 - Jar of Nether brain jelly
 - (10x) Halival berries
+- 2.5 feet of Swamp Skitter Carapace
+- 1 bottle of Amazing Whiskey
+	- Obtained from Tavern in Strock
+- 1 bottle of Fancy Wine
+	- Obtained from Hannah Strist's basement
 ## Misc
 - Pub Darts
 - Brass Bracelet
@@ -247,9 +254,9 @@ Survival (Wis) [+2]
 	- 6th level spell
 	- For 10 minutes you can converse with a divine realm. pretty open ended
 ## Potions
-- Health Potion (x1)
+- Health Potion (x3)
 	- 2D4 + 4 HP
-- Potion of Waterbreathing (x1)
+- Potion of Waterbreathing (x2)
 - Spider Venom Poison 
 - Potion of Growth
 	- Grants enlarge condition (grow size by 1)
@@ -260,6 +267,8 @@ Survival (Wis) [+2]
 - Bottle of Breath [Shroud]
 - Potion of Possibility [Kohoku]
 - Potion of Speed [Ugla]
+- Potion of Hill Giant Strength
+	- From Hannah Strist
 
 ## Items requiring investigation
 - 1 bottle of milky, cummy fluid that glitters brightly
@@ -271,8 +280,8 @@ Survival (Wis) [+2]
 
 ## Money
 - CP: 
-- SP: 211
-- GP: 2975
+- SP: 210
+- GP: 3020
 - PP: 496
 
 # Feats/Abilities
@@ -307,7 +316,7 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 
 ## Active
 
-### Innate Sorcery [2/2]
+### Innate Sorcery [0/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -315,8 +324,8 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [1/1]
-Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
+### Tides of Chaos [Homebrew]  [0/1] 
+Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw of any allied target. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
 Once per long rest, when you finish a short rest you can regain expended Sorcery Points equal to half your sorcerer level rounded down. 
@@ -325,12 +334,15 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [2/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 #### Quickened Spell
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+
+#### Bend Luck [Homebrew]
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a D20 Test, you can take a Reaction and spend 2 Sorcery Points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the d20 roll.
 
 ## Spells
 ### Cantrips
@@ -340,18 +352,18 @@ When you cast a spell that has a casting time of 1 action, you can spend 2 sorce
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [4/4]
+### Level 1 [3/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [3/3]
+### Level 2 [2/3]
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [3/3]
+### Level 3 [1/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [1/1]
+### Level 4 [0/1]
 - Sickening Radiance
