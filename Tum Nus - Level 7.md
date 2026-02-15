@@ -7,7 +7,7 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (21/38)
+HP (22/38)
 Armour Class [13] = [13 base]
 Movement Speed [40]
 Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
@@ -51,8 +51,7 @@ Survival (Wis) [+2]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
-		- Sickening Radiance (Level 4)
-		- Fireball (Level 4)
+
 
 - Immovable Rod
 	- 2 foot long rod
@@ -280,8 +279,8 @@ Survival (Wis) [+2]
 
 ## Money
 - CP: 
-- SP: 210
-- GP: 3020
+- SP: 208
+- GP: 3017
 - PP: 496
 
 # Feats/Abilities
@@ -316,7 +315,7 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 
 ## Active
 
-### Innate Sorcery [0/2]
+### Innate Sorcery [1/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -324,7 +323,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [Homebrew]  [0/1] 
+### Tides of Chaos [Homebrew]  [1/1] 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw of any allied target. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -334,7 +333,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [2/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -357,13 +356,13 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [2/3]
+### Level 2 [3/3]
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [0/3]
+### Level 3 [2/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [0/1]
+### Level 4 [1/1]
 - Sickening Radiance

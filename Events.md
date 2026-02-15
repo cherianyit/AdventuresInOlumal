@@ -50,9 +50,29 @@ The next morning in Strock
 			- He has a variety of fruits including vine jelly which is fae related. He does not tell us where he got them from
 				- Tum Nus rings his chime for the fruit and the vine jelly pod appears to jiggle less and solidifies. The fruit has heated up because of the chime. In the back of Tum Nus' mind he hears a giggle
 		- Shroud splits off
-			- She enters Bogies
+			- She enters Bogies Bargains
 				- She buys a map of Velan that is written on bark
-	- 
+		- We find a dock worker and Captain Anvira Integra
+			- Shroud asks a random worker about the dark clouds that came in the other day asking about the 4 dark riders but he has no idea.
+			- Talking with Captain Anvira Integra
+				- One of her workers named Ferris says to get to the vessel by 11:30 tomorrow or three days from today
+				- Anvira is a spirit walker or kalashtar. They have the ability to see beyond the veil or touch the spirit world slightly. Each plane has its own spirits
+				- We pay her to take us when we're ready to travel as they haven't had any passengers recently. They last had passengers 5 days ago
+				- Tum Nus chats with her and she says she is Kalashtar and that she can see spirits. As he walks away Captain Anvira Integra notably looks at Shroud implying she can see some spirits lingering around Shroud.
+	- We get to the tavern
+		- Behind the bar is Sheila Mims
+		- There are several groups at the bar: 4 miners, a table of two ladies, a very drunk man, and 2 mercenaries
+			- The drunk man leaves and Shroud escorts him home
+				- Shroud steals a cold silverish coin from the drunk man
+			- The 4 miners refuse to talk to Tum Nus and Ugla about work and decline Baloney's offer to pay them off for info. They leave and the mercenary group leaves with them. Baloney, Kahoku, and Tum Nus walk away after being spotted.
+				- Ugla and Shroud assault the two mercenaries and send the miners back to the bar
+		- Back at the bar 
+			- The miners talk
+				- Banrek is the foreman of the big mining site
+				- They can't break contract because otherwise they would have to pay back everything they owe. 
+				- The miners draw us a map of the mine
+Th next day
+- We go at night 
 ### February 13, 2026
 The next morning in Ingson
 - We head to Nathan's house to burn it down
