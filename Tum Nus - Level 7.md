@@ -7,7 +7,7 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (8/38)
+HP (21/38)
 Armour Class [13] = [13 base]
 Movement Speed [40]
 Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
@@ -361,7 +361,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [1/3]
+### Level 3 [0/3]
 - Fireball
 - Counterspell
 - Dispel Magic

@@ -40,6 +40,19 @@ The next morning in Strock
 				- She will be working in the Keep 4 days a week Monday to Thursday, 10 sick days, 1 week of vacation per calendar year.
 			- We task Meredith with studying the teleportation circle
 			- Baloney and Meredith make a blood pact
+		- We find Copparnia, Dremalin, and Mogarli (herbs)
+		- We check Hannah Strist's body
+			- Red and Orange bag
+			- Pale white and tan wand
+		- Shroud tells us the nightriders that we had seen the previous day went through Strock and went on a boat
+	- We head towards the pier
+		- We go to Quints Queries, the fruit shop
+			- He has a variety of fruits including vine jelly which is fae related. He does not tell us where he got them from
+				- Tum Nus rings his chime for the fruit and the vine jelly pod appears to jiggle less and solidifies. The fruit has heated up because of the chime. In the back of Tum Nus' mind he hears a giggle
+		- Shroud splits off
+			- She enters Bogies
+				- She buys a map of Velan that is written on bark
+	- 
 ### February 13, 2026
 The next morning in Ingson
 - We head to Nathan's house to burn it down
