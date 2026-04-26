@@ -1,3 +1,10 @@
+### February 15, 2026
+Didn't play today so didn't get full notes
+Rizzo calls us
+- He's decrypted Tallis' book a bit
+- It has a twin and is used for both communication and diarying. She has been communicating with a demon from the abyssal realm/shadowlands named Illnir whose working Zello.
+- She has been slowly torturing people over a period of time for soul fragments for some blood ritual. This blood ritual is meant to open doors to other planes. Supposedly doing this to a champion of a god will be much greater
+
 ### February 14, 2026
 The next morning in Strock
 - We enter Frist's Fashions
