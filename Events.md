@@ -1,5 +1,4 @@
 ### April 26, 2026
-
 At the edge of the Twisted Grove
 - Baloney opens the entrance to the grove and we enter
 - The path is closing as we walk
@@ -61,9 +60,14 @@ In the Faewild
 	- Rubber mushrooms that are extremely bouncy. Will triple your jump height
 - We encounter a river
 	- Vibrant turquoise that looks like crystal. The fish we see in here we see are very flat  that undulate up and down with eyes on top of their head and are translucent
-- We encounter a lone satyr
+- We encounter a lone satyr named Vinegar
 	- We trade a bottle of whiskey for a greater healing potion
-
+	- We trade a shark tooth necklace for a self tying woven belt with a crotch level rose
+	- We trade a magic seed for 10 shock arrows
+		- The seed is planted and a massive tree erupts with 26 pieces of fruit. There are 8 different types of fruit and 3 of each kind. We get 2 of each kind of fruit
+- Tum Nus taps the tuning fork and it sounds like the full chord of a harp and hear a light giggle in the back of my mind. The rest of the party only hears a single note
+- We see a massive hill become a creature and lumber across the plains away from us. It becomes a hill again
+- We see strange gouges in the ground
 
 
 ### February 15, 2026

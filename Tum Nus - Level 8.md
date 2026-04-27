@@ -88,6 +88,7 @@ Survival (Wis) [+2]
 	- Emanates chaotic magic
 	- Baloney used 1 and it transformed into frogs
 	- Traded 1 to Yulia
+	- Traded 1 to random satyr in the Feywild
 - Robe of Useful Items
 	- Can use an action to make a patch on it become the real thing
 		- 2 Dagger patches
@@ -150,6 +151,9 @@ Survival (Wis) [+2]
 - Amulet of the Drunkard
 	- Bought from Olephant
 	- Heals 4d4 + 4 hp on drinking alcohol once a day
+- Rose Belt
+	- Self weaving and has a crotch level rose
+	- 
 
 ## Equipment
 - Explorer’s Pack
@@ -237,6 +241,9 @@ Survival (Wis) [+2]
 	- Obtained from Tavern in Strock
 - 1 bottle of Fancy Wine
 	- Obtained from Hannah Strist's basement
+- 16 fruit
+	- 8 different types, 2 of each kind
+	- Originated from a magic bean used in the Faewild. 
 ## Misc
 - Pub Darts
 - Brass Bracelet
