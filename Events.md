@@ -1,9 +1,90 @@
+### April 26, 2026
+
+At the edge of the Twisted Grove
+- Baloney opens the entrance to the grove and we enter
+- The path is closing as we walk
+- Kohoku harvests some herbs
+	- 10 Foulain berries (wiry leafy plant that has black berries). Causes slight increase in energy
+- Tum Nus sees there's tons of sifting waves of magic throughout the grove
+	- As we're walking a root pokes up and trips Tum Nus. A small giggle is heard in Tum Nus' mind. No one else hears. The root disappears
+- Shroud feels like something is looking at us
+At the Druid's Grove camp site
+- We encounter an "everlasting" fire (not everlasting, but had always been lit) and smell smoke
+- Shroud hears Necron the language of the dead and of necromancy in the distance. We hear and see crackling red lightning and avoid falling trees. In the clearing ahead are 4 figures in black robes. They each carry a glass dagger and a long curved wand. There are many dead druids.
+	- As we fight them they raise some dead druids
+	- We kill them and find several things:
+		- A map of Velan
+		- Some money
+		- A sending stone that disintegrates as soon as we pick it up
+		- A rolled up piece of parchment. 
+			- It has 4 symbols on it: 
+				- spread leathery wings
+				- a skull with smoke coming out of its eyes
+				- flayed skin on posts with markings on the skin
+				- a set of angels wings
+			- It is written in ancient Abyssal
+		- A small twoney sized piece of emerald
+	- We look at the one whose robes are partially burned away. We see their wounds are seeping black smoke in a way we've seen before. All of the robed figures are different races and species. There are black runes tucked behind their ears and on the bottom of feet.
+- We encounter several surviving druids: Frafolk (halfling), Helmare (half elf), and Ithrun (furball)
+	- Frafolk tells us Othir took off with the stronger of the clan a few days ago towards the magical rage in the forest
+	- She doesn't know how the creatures got into the grove
+	- One figure is still alive and is headed towards Othir
+- We chase after the figure
+- While chasing after the figure Baloney puts the emerald fragment on his emerald and it snaps into place implying they are part of the same gem or at least from the same place. Baloney has a large headache from this
+At the site of magic
+- We hear Othir shouting
+- We see strange magical anomalies: a squirrel walking up a tree backwards, a stream rolling backwards, a leaf falling and heading back up towards the branch
+- Tum Nus senses a heavy amount of magic far away. There is no particular type of magic at play, it is a swirling mass of all types of magic. A whirlpool of tightly packed energy packed in one area. There are wisps of magic connected directly to some people.
+	- Some very similar energy of psychic arcana
+	- Like non stop surges of wild magic
+- We see Othir and the druids standing around with one druid with a glass dagger in his back. Othir tries to stop the black figure and severs his connection to the anomaly briefly but the black figure brings out some of his emerald and disappears. Othir tries to reconnect. The energy kills a single druid by slicing it in half.
+- Baloney brings out his emerald and approaches, but Othir tells him to stop and wait. The druids get it more under control and we chat
+- Othir asks Baloney what he wants to do and Baloney says he wants to split the emerald into 5 and chase after the creature
+- Baloney hears a voice that warns him not to let them retrieve the tome for "him"
+	- The voice tells him he has the strength of the old gods watching over him, the divine of the first world
+	- Baloney tries to tell us about this voice and it stops him and tells him in the name of Perenum, god of dragons, lord of the skies, keeper of the moon and stars, to go and do his will and make haste. Baloney rises floating in the air and starts moving towards the portal unwillingly. We jump and grab onto Baloney. Baloney's emerald breaks into 5 pieces and all 5 of us disappear. We feel the softness of grass beneath our feet
+In the Faewild
+- We discuss what the voice was
+	- None of us know what the first order is or have heard of Perenum
+- Tum Nus feels everything is super familiar and intrinsically knows where North is. We find that we are an hour or so away from where he grew up
+- Baloney's emerald is missing. It is not clear where it is at this time
+- We start walking towards Tum Nus's village where he grew up, but through some perception checks we notice that the grass is parted a bit a little off from Tum Nus's village and we use the compass to determine we should follow that path instead.
+- Ugla investigates and we find that this realm mirrors ours, meaning geographic locations are similar between planes
+- Tum Nus remembers some stuff
+	- Junna was the name of his town. A small village of Satyr folk that was built around a naturally occurring fountain
+	- There is a village to the north west of fairies that we used to trade with
+	- Much further North is another village of Satyrs close to the foot of the mountain
+	- Supposedly there is a kingdom of elves further north too
+- We see cool stuff:
+	- Clouds that turn into animals and can roam around before turning back into clouds
+	- Dust devils, wind imps that turn into random objects using random objects it picks up (usually harmless)
+	- Rubber mushrooms that are extremely bouncy. Will triple your jump height
+- We encounter a river
+	- Vibrant turquoise that looks like crystal. The fish we see in here we see are very flat  that undulate up and down with eyes on top of their head and are translucent
+- We encounter a lone satyr
+	- We trade a bottle of whiskey for a greater healing potion
+
+
+
 ### February 15, 2026
 Didn't play today so didn't get full notes
-Rizzo calls us
-- He's decrypted Tallis' book a bit
-- It has a twin and is used for both communication and diarying. She has been communicating with a demon from the abyssal realm/shadowlands named Illnir whose working Zello.
-- She has been slowly torturing people over a period of time for soul fragments for some blood ritual. This blood ritual is meant to open doors to other planes. Supposedly doing this to a champion of a god will be much greater
+Recap of events from Feb 15 2026
+- Rizzo calls us
+	- He's decrypted Tallis' book a bit
+	- It has a twin and is used for both communication and diarying. She has been communicating with a demon from the abyssal realm/shadowlands named Illnir who is working for Zello.
+	- She has been slowly torturing people over a period of time for soul fragments for some blood ritual. This blood ritual is meant to open doors to other planes. Supposedly doing this to a champion of a god will be much greater
+- We stayed at the Moss Rock, a tavern
+	- Baloney and Tum Nus feel at home
+- We go to the Temple of Ballo
+	- At the center of the tree was an odd amulet of writhing vines. It appears around Kohoku's neck
+- We are asked to get some Roc eagle feathers or some purple wyrm toxin by artificer
+- We meet the council in charge of the temple of Ballo
+	- Ugla cuts a deal with the treasurer to get a robe made that glows
+- We head south from the temple of ballo towards Ballo's Bossom (a mountain range)
+	- We encounter some dwarfs who wear shining prismatic 
+- We see a massive lake called Ballo's Breath
+	- People talk about how the lake is super dangerous and weird things happen to people who drink it
+- We reach the edge of the Twisted Grove
 
 ### February 14, 2026
 The next morning in Strock
@@ -78,8 +159,10 @@ The next morning in Strock
 				- Banrek is the foreman of the big mining site
 				- They can't break contract because otherwise they would have to pay back everything they owe. 
 				- The miners draw us a map of the mine
-Th next day
-- We go at night 
+The next day
+- We go at night and destroy the mine
+- We got a contract from Judge Quiss to finish the mine ASAP which is incriminating as it was not signed off on by the royal family
+
 ### February 13, 2026
 The next morning in Ingson
 - We head to Nathan's house to burn it down
@@ -101,7 +184,6 @@ Entering Strock
 		- She also mentions someone named Hannah Strist who is a talented seemstress
 			- This is who we're delivering the package to for Meredith Strist
 		- Shroud speaks something in thieves cant to her and Sheila pretends not to understand and then slips a paper to Shroud
-
 
 ### February 12, 2026
 While camping at night

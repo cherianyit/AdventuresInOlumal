@@ -7,13 +7,14 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (22/38)
+HP (42/42)
 Armour Class [13] = [13 base]
 Movement Speed [40]
 Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
 Spell Attack Bonus [8] = [Charisma modifier] + [Proficiency] 
 Hit Die [3/3]  [D6]
 Inspiration Die [0]
+Initiative modifier [8] = [Dexterity modifier] + [5 from Alert feat]
 
 ## Saving Throws
 Strength [-1]
@@ -51,6 +52,7 @@ Survival (Wis) [+2]
 	- Can store up to 2 spells for 24 hours
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
+		- Fireball (Level 4)
 
 
 - Immovable Rod
@@ -125,7 +127,7 @@ Survival (Wis) [+2]
 - Shadow Steel Handcuffs
 	- Made from shadow
 	- Can be unlocked by radiant magic
-- Ring of Ultimate Resistance [Attuned]
+- Ring of Ultimate Resistance [ATTUNED]
 	- Everyday choose one of the following to become immune to
 		- 1 Acid [Pearl] 
 		- 2 Cold [Tourmaline] 
@@ -205,7 +207,8 @@ Survival (Wis) [+2]
 - Flayed skin of Bang's goon containing Zello tattoo
 - Schematics for a pistol from Bang's Hideout
 - Maps from Cillan's study depicting Numinous locations across the globe
-- 
+- Incriminating Documents from Judge Quiss
+	- Documents obtained from the mine that were written by Judge Quiss to finish the mine ASAP. Was not signed off on by the King and Queen
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -299,6 +302,12 @@ If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcer
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
 
+### Alert
+Always on the lookout for danger, you gain the following benefits:
+- You can't be surprised while you are conscious.
+- You gain a +5 bonus to initiative.
+- Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.
+
 ### Equipment Attuned
 - Ring of Ultimate Resistance
 - Amulet of the Drunkard
@@ -333,7 +342,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [3/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -351,7 +360,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [3/4]
+### Level 1 [4/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
@@ -366,3 +375,4 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Dispel Magic
 ### Level 4 [1/1]
 - Sickening Radiance
+- Banishment

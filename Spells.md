@@ -296,4 +296,33 @@ Dim, greenish light spreads within a 30-foot-radius sphere centered on a point y
 
 When a creature moves into the spell’s area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take 4d10 radiant damage, and it suffers one level of exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this spell go away when the spell ends.
 
+Exhaustion Levels:
+1. Disadvantage on ability checks
+2. Speed halved
+3. Disadvantaged on attack rolls and saving throws
+4. Hit point maximum halved
+5. Speed reduced to 0
+6. Death
+
 **_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
+### Banishment
+
+Source: Player's Handbook
+
+_4th-level abjuration_
+
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (an item distasteful to the target)  
+**Duration:** Concentration, up to 1 minute
+
+You attempt to send one creature that you can see within range to another place of existence. The target must succeed on a Charisma saving throw or be banished.
+
+If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
+If the target is native to a different plane of existence that the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
+
+**_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
