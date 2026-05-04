@@ -53,8 +53,6 @@ Survival (Wis) [+2]
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
 		- Fireball (Level 4)
-
-
 - Immovable Rod
 	- 2 foot long rod
 	- Has a button on one end. Can use an action to click the button which makes the rod not move.
@@ -76,6 +74,7 @@ Survival (Wis) [+2]
 	- Is enchanted to point to an object the user is thinking about
 	- More specific and well known the subject is the better it is
 	- Can only be used once per day
+	- Lasts for 1 hour
 - Magical folding cart
 	- Can be a cart, carriage, 
 	- able to uncomfortably hold 4 people in the back and gear
@@ -153,7 +152,19 @@ Survival (Wis) [+2]
 	- Heals 4d4 + 4 hp on drinking alcohol once a day
 - Rose Belt
 	- Self weaving and has a crotch level rose
-	- 
+- Soulstone [Tum Nus]
+	- Magical essence picked up on it
+	- Houses the spirit or essence of someone that has passed. This one houses the spirit of Rhancecleaver's wife/mate
+	- Has the ability to unleash the spirit essence once a day to fight for us
+	- Does not require attunement
+- Sheath of hiding
+	- A sheath we obtained from the Bugbear assassin of the Rattle tribe
+	- Elven make
+	- Can change in size and house any weapon
+	- Whenever anything is sheathed inside of it, it disappears and becomes part of your clothing
+- Necklace of Constitution
+	- +1 to constitution
+	- Obtained from the Bugbear Assassin of the Rattle tribe
 
 ## Equipment
 - Explorer’s Pack
@@ -161,7 +172,7 @@ Survival (Wis) [+2]
 	- 1d4 piercing
 - Flask
 - Torches
-- (5 uses) of Wyvern Poison (7d6 poison damage)
+- (6 uses) of Wyvern Poison (7d6 poison damage)
 - (2x) 50ft bags of rope
 - 5 torches
 - 1 set of climbing gear
@@ -170,7 +181,7 @@ Survival (Wis) [+2]
 	- Enhances magic
 - (2x) Iron Crown 
 	- Able to be enchanted easily
-- Armour of the Arachnid [Equipped]
+- Armour of the Arachnid
 	- Immune to poison
 	- Immune to being enwebbed
 	- AC = 13 + Dex [16]
@@ -182,7 +193,13 @@ Survival (Wis) [+2]
 - 1 Greatsword
 - Gold ring with blue diamond flecked with black engagement ring from Bang's hideout
 	- Worth 400 gold
-
+- +1 Greataxe
+	- Obtained from Rancecleaver
+- Bone Helmet
+	- Obtained from Rancecleaver
+	- Made from the jaw of a displacer beast
+- +2 Greathammer
+	- Obtained from Bugbear barbarian of the Rattle tribe
 ## Key Items
 - Incriminating Documents
 	- From Xyther
@@ -213,6 +230,7 @@ Survival (Wis) [+2]
 - Maps from Cillan's study depicting Numinous locations across the globe
 - Incriminating Documents from Judge Quiss
 	- Documents obtained from the mine that were written by Judge Quiss to finish the mine ASAP. Was not signed off on by the King and Queen
+- 
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -252,6 +270,11 @@ Survival (Wis) [+2]
 	- Cunty as fuck
 - Spyglass
 - Rations
+- Ritual Charms
+	- Obtained from Rancecleaver
+	- Appears to be part of Bugbear culture as they make noise when they move together
+- Pouch of Shiny Rocks
+	- Obtained from Rancecleaver
 ## Spell Scrolls
 - Necromantic Spell Scroll
 - Scroll of False Life 
@@ -262,6 +285,7 @@ Survival (Wis) [+2]
 	- Recognize that this is celestial adjacent and has arcanic symbols. Appears to be a scroll of some divinity based magic, but doesn't appear to be anything of nefarious origin or dealing damage. 
 	- 6th level spell
 	- For 10 minutes you can converse with a divine realm. pretty open ended
+
 ## Potions
 - Health Potion (x3)
 	- 2D4 + 4 HP
@@ -278,6 +302,7 @@ Survival (Wis) [+2]
 - Potion of Speed [Ugla]
 - Potion of Hill Giant Strength
 	- From Hannah Strist
+- Potion of Haste [Shroud]
 
 ## Items requiring investigation
 - 1 bottle of milky, cummy fluid that glitters brightly
@@ -296,7 +321,7 @@ Survival (Wis) [+2]
 # Feats/Abilities
 ## Passive
 ### Wild magic surge
-Activates on casting two spells (includes casting from orb and casting regular spell)
+Activates on casting two spells (includes casting from orb and casting regular spell). Can trigger in other ways too.
 
 ### Magic Resistance
 Advantage on saving throws against spells
@@ -331,9 +356,8 @@ Always on the lookout for danger, you gain the following benefits:
 
 ## Active
 
-### Innate Sorcery [1/2]
+### Innate Sorcery [2/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
-
 - The spell save DC of your Sorcerer spells increases by 1.
 - You have Advantage on the attack rolls of Sorcerer spells you cast.
 
@@ -349,7 +373,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [3/5]
+### Sorcerous Abilities [5/5]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -376,7 +400,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [2/3]
+### Level 3 [3/3]
 - Fireball
 - Counterspell
 - Dispel Magic

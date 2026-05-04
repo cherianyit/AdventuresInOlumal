@@ -1,4 +1,8 @@
 ## Main Quests
+
+### Magical Anomaly in the Druid's Grove
+
+
 ### Information from Vivian (Dirt on Tallis)
 - Investigate Tallis for dirt on her so she can get fired or otherwise
 	- Chambers are in the castle on the second floor

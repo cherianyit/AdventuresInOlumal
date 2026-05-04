@@ -1,3 +1,37 @@
+### May 3, 2026
+We are chasing after the assassin 
+- Shroud sees 30-45 figures headed perpendicularly to us hundreds of meters away, the rattle tribe of bugbears
+- Tum Nus is held at knifepoint by some dark figure wearing a mask that is wearing the skin of another's face
+	- It is wearing a mask that is made from an elf
+	- This is a bugbear
+- The bugbear tribe comes and their leader says to send our strongest to duel their strongest or else they will attack all of us
+- Far away near the treeline, Kohoku notices a little house with an arrow pointed from a window at the bugbear horde
+- Ugla 1 v 1's their champion and wins but their leader interjects and says to spare him
+- The bugbear leader Rancecleaver (Rance) refuses to let us kill Gorgoth or the assassin and Tum Nus and Baloney cast Wall of Fire and Sickening Radiance which eviscerates the entire tribe
+	- Gorgoth, the assassin, and Rance are the only survivors
+	- Gorgoth goes to attack and is killed by two arrows
+	- We kill the assassin
+	- We knock Rancecleaver unconscious
+- Baloney spots two armed elven warriors approaching us as well as an oversized raccoon
+	- The raccoon is shining metallically in a silver, white, and black pattern
+	- One of them introduces himself as Ghilleah, the other is his daughter Visieah (spelling is fucked)
+		- Part of the Illadran court which holds dominion over the continent of Wistwain
+		- Baloney asks him about Perenum
+			- Baloney sees on his armour design a silver compass, an oak leaf, and leather wings
+			- Ghilleah says that he is aware of him and that it is no uncommon, but not common for him to talk to people
+			- He says there is only one god here which is Perenum
+		- Ghilleah warns us about going North due to a dangerous creature known as Guanchalleh the Green, a massive ancient emerald dragon
+			- He warns she is sickened with greed and madness
+			- Every 2 days she casts magic of unknown origin in the plains south of where we are
+			- Appears she used to be a green chromatic dragon and then left for elsewhere (another plane?) and was afflicted and became a gem dragon
+			- The Illadran court has been discussing what to about her for years
+			- She destroyed Tum Nus' village as a child
+				- There are 3 or 4 survivors
+					- There are a base of satyrs at the base of the mountain, the silent steppes
+					- They are in hiding because of their location so close to their home
+					- It is likely that these survivors are there
+	- We agree to stay at the outpost for a night and then head to the Illadran court
+
 ### April 26, 2026
 At the edge of the Twisted Grove
 - Baloney opens the entrance to the grove and we enter
