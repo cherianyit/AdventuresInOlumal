@@ -10,8 +10,8 @@ Charisma [20/+5]
 HP (42/42)
 Armour Class [13] = [13 base]
 Movement Speed [40]
-Spell Save DC [16] = [8 base] + [Charisma modifier] + [Proficiency] 
-Spell Attack Bonus [8] = [Charisma modifier] + [Proficiency] 
+Spell Save DC [17] = [8 base] + [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial]
+Spell Attack Bonus [9] = [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial]
 Hit Die [3/3]  [D6]
 Inspiration Die [0]
 Initiative modifier [8] = [Dexterity modifier] + [5 from Alert feat]
@@ -53,6 +53,7 @@ Survival (Wis) [+2]
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
 		- Fireball (Level 4)
+		- Sickening Radiance (Level 4)
 - Immovable Rod
 	- 2 foot long rod
 	- Has a button on one end. Can use an action to click the button which makes the rod not move.
@@ -104,7 +105,7 @@ Survival (Wis) [+2]
 		- 1 patch of a ladder
 - Everchanging Lock
 	- Lock shifts everytime you fail and increases the DC
--  Blank piece of paper
+-  Blank piece of paper [Kohoku]
 	- Gotten from Bang's bandits north of Caladar
 	- Turned into a crane when written "Gust of Wind". Is following Kohoku
 - Ram's Head ring [Ugla]
@@ -150,13 +151,18 @@ Survival (Wis) [+2]
 - Amulet of the Drunkard
 	- Bought from Olephant
 	- Heals 4d4 + 4 hp on drinking alcohol once a day
-- Rose Belt
+- Rose Belt [Ugla]
 	- Self weaving and has a crotch level rose
+	- Were at 1 point real roses, but are magically altered
+	- Magically ties itself
+	- Can grow thorns. When someone lands a melee attack on you they will receive 1d4 piercing damage
+	- +1 to charisma
 - Soulstone [Tum Nus]
 	- Magical essence picked up on it
 	- Houses the spirit or essence of someone that has passed. This one houses the spirit of Rhancecleaver's wife/mate
 	- Has the ability to unleash the spirit essence once a day to fight for us
 	- Does not require attunement
+	- 1 Action to summon
 - Sheath of hiding
 	- A sheath we obtained from the Bugbear assassin of the Rattle tribe
 	- Elven make
@@ -165,6 +171,9 @@ Survival (Wis) [+2]
 - Necklace of Constitution
 	- +1 to constitution
 	- Obtained from the Bugbear Assassin of the Rattle tribe
+- Bloodwell Vial [Tum Nus]
+	- +1 Spellcasting ability
+	- Once a day regain up to 5 sorcery points
 
 ## Equipment
 - Explorer’s Pack
@@ -342,7 +351,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 ### Equipment Attuned
 - Ring of Ultimate Resistance
-- Amulet of the Drunkard
+- Bloodwell Vial
 - Crystal of Containment
 
 ### Equipment Passives
@@ -350,9 +359,9 @@ Always on the lookout for danger, you gain the following benefits:
 - [ATTUNED]
 - Immune to an element. Currently: Necrotic
 
-[EQUIPMENT] Amulet of the Drunkard
-- [ATTUNED]
-- Heals 4d4 + 4 hp on drinking alcohol once a day
+[EQUIPMENT] Bloodwell Vial
+- +1 Spellcasting ability
+- Once a day regain up to 5 sorcery points
 
 ## Active
 
@@ -373,7 +382,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [5/5]
+### Sorcerous Abilities [8/8]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 

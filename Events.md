@@ -1,3 +1,33 @@
+### May 24, 2026
+
+
+### May 16, 2026
+The next morning
+- We agree to let Rance go
+On the road to Aethel
+- Chatting with the elves
+	- Survivors of Tum Nus's village are likely in the Northern settlement near the moutains. There is a satyr living in Aethel
+	- We learn that Vinegar is a shapeshifting entity that you don't want to try to cheat
+- We hear a light rumbling and see two snake cloud animals that intertwine and become 1 large cloud that starts raining directly over us, following us
+- We see 2 figures in the distance that are scaled in a tank top style robe with a staff. There are several sheep like creatures near them with a carpet of fur dragging behind them. On seeing us it retreats back into its dragon hole
+- While walking we hear whispering in the bushes. Their names are Rafael and Bartholomew. Baloney investigates and realizes it is the bushes themselves that are talking. He casts plant growth which increases all plant sizes permanently. The bushes thanks Baloney and they say he'll always have a place in their kingdom provided he signs a contract then.
+- Visieal, Koholu, and Ugla go off to forage and hunt
+	- Kohoku gets 9 herbs
+	- They see an antelope like creature with 4 legs, a long slender neck, and a horn known as a skydiver.
+- Ghilleah tells Tum Nus the satyr in Aethel is a gardener around 200 years old or so. Could be Tum Nus's father
+- The elves tell us it is the changing of the seasons in the Eladran court
+We reach the city
+- The city is spires made of glass. Floating above with crystalline undersides attached to rock are more glass spires. Lots of quartz, granite, alabaster, and marble as well. The floating cities are powered by electricity. 
+	- The elves have access to electricity
+- Ghilleah tells us there are no black market groups or anything like that in the city
+- There are 2 elf folk who call Baloney a slur cave scales, further implying the city is super fucking racist
+- We enter Gertrude's Trinkets
+	- Wooden interior, small shop. Contains several cases of glass jars, stands, mounted pieces. The store is loaded full of magical stuff
+	- We meet the shopkeeper named Cecilia
+		- She displays further elf racism
+	- We do some trades
+		- Tum Nus gets a Bloodwell Vial in exchange for something interesting from the dragon's hoard
+
 ### May 3, 2026
 We are chasing after the assassin 
 - Shroud sees 30-45 figures headed perpendicularly to us hundreds of meters away, the rattle tribe of bugbears
@@ -13,15 +43,15 @@ We are chasing after the assassin
 	- We kill the assassin
 	- We knock Rancecleaver unconscious
 - Baloney spots two armed elven warriors approaching us as well as an oversized raccoon
-	- The raccoon is shining metallically in a silver, white, and black pattern
-	- One of them introduces himself as Ghilleah, the other is his daughter Visieah (spelling is fucked)
+	- The raccoon is shining metallically in a silver, white, and black pattern. He is a tree bear
+	- One of them introduces himself as Ghilleah, the other is his daughter Visieal (spelling is fucked)
 		- Part of the Illadran court which holds dominion over the continent of Wistwain
 		- Baloney asks him about Perenum
 			- Baloney sees on his armour design a silver compass, an oak leaf, and leather wings
 			- Ghilleah says that he is aware of him and that it is no uncommon, but not common for him to talk to people
 			- He says there is only one god here which is Perenum
 		- Ghilleah warns us about going North due to a dangerous creature known as Guanchalleh the Green, a massive ancient emerald dragon
-			- He warns she is sickened with greed and madness
+			- He warns she is sickened with greed and madness otherwise known as dragon sickness
 			- Every 2 days she casts magic of unknown origin in the plains south of where we are
 			- Appears she used to be a green chromatic dragon and then left for elsewhere (another plane?) and was afflicted and became a gem dragon
 			- The Illadran court has been discussing what to about her for years
@@ -30,7 +60,7 @@ We are chasing after the assassin
 					- There are a base of satyrs at the base of the mountain, the silent steppes
 					- They are in hiding because of their location so close to their home
 					- It is likely that these survivors are there
-	- We agree to stay at the outpost for a night and then head to the Illadran court
+	- We agree to stay at the outpost for a night and then head to the Illadran court in the Illadran city of Aethel
 
 ### April 26, 2026
 At the edge of the Twisted Grove
