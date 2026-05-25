@@ -148,7 +148,7 @@ Survival (Wis) [+2]
 	- Fae touched item given by Olephant
 	- Able to open locks up to 80 feet away
 	- Reminds Tum Nus of a tune he heard in his youth
-- Amulet of the Drunkard
+- Amulet of the Drunkard [Tum Nus]
 	- Bought from Olephant
 	- Heals 4d4 + 4 hp on drinking alcohol once a day
 - Rose Belt [Ugla]
@@ -174,6 +174,7 @@ Survival (Wis) [+2]
 - Bloodwell Vial [Tum Nus]
 	- +1 Spellcasting ability
 	- Once a day regain up to 5 sorcery points
+	- Character slot item (cannot be given to anyone else but does not require attunement)
 
 ## Equipment
 - Explorer’s Pack
@@ -239,7 +240,16 @@ Survival (Wis) [+2]
 - Maps from Cillan's study depicting Numinous locations across the globe
 - Incriminating Documents from Judge Quiss
 	- Documents obtained from the mine that were written by Judge Quiss to finish the mine ASAP. Was not signed off on by the King and Queen
-- 
+- Black Ruby Amulet
+	- From Cillan's desk
+	- Caused Ugla to be possessed when he touched it
+	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
+	- We ask Bill the demon about it and he reveals the following:
+		- Can send messages between the abyssal plane and material plane
+		- Blood inside is likely around 4 people
+		- Can be used for tracking people of whoever's blood is in it
+- Sending Stone to Hindriss
+- Sending Stone to Rizzo
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -266,8 +276,6 @@ Survival (Wis) [+2]
 - 2.5 feet of Swamp Skitter Carapace
 - 1 bottle of Amazing Whiskey
 	- Obtained from Tavern in Strock
-- 1 bottle of Fancy Wine
-	- Obtained from Hannah Strist's basement
 - 16 fruit
 	- 8 different types, 2 of each kind
 	- Originated from a magic bean used in the Faewild. 
@@ -312,14 +320,11 @@ Survival (Wis) [+2]
 - Potion of Hill Giant Strength
 	- From Hannah Strist
 - Potion of Haste [Shroud]
+- Potion of Radiance [Kohoku]
 
 ## Items requiring investigation
 - 1 bottle of milky, cummy fluid that glitters brightly
 	- From Cillan's desk
-- Black Amulet
-	- From Cillan's desk
-	- Caused Ugla to be possessed when he touched it
-	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
 
 ## Money
 - CP: 
@@ -351,7 +356,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 ### Equipment Attuned
 - Ring of Ultimate Resistance
-- Bloodwell Vial
+- Amulet of the Drunkard
 - Crystal of Containment
 
 ### Equipment Passives

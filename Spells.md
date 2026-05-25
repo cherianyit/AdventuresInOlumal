@@ -312,9 +312,9 @@ Source: Player's Handbook
 
 _4th-level abjuration_
 
-**Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** V, S, M (an item distasteful to the target)  
+**Casting Time:** 1 action
+**Range:** 60 feet
+**Components:** V, S, M (an item distasteful to the target)
 **Duration:** Concentration, up to 1 minute
 
 You attempt to send one creature that you can see within range to another place of existence. The target must succeed on a Charisma saving throw or be banished.

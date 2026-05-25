@@ -1,5 +1,78 @@
 ### May 24, 2026
-
+In Gertrude's Trinkets
+- Ugla trades a picture of his parents for an earring of alter self
+- Kohoku makes a promise to give Cecilia safe passage to the material plane in exchange for a green dragon hide belt
+- Shroud trades something secret for a bowstring of twisted fate
+	- 1d8 necrotic or radiant damage
+	- Fires a second arrow of 1d8 of force damage and will strike anything else within 30 feet of the target
+	- Gives the ability to teleport to wherever the arrow strikes once a day
+- Baloney trades a promise that Cecilia will see scale folk differently by the end of our trip here in exchange for turning his finger ring into his actual finger again
+	- This finger will not transform and is a finger of spell storing
+	- 1 free spell slot for healing word (the finger ring used to have this ability)
+	- 1 free up to 4th level spell slot
+Moving towards the town square
+- We see something large in the air and hear something. Above us is a sky ship, which is like a boat that can fly. It is very ornamental and fancy.
+- Ugla flies up onto the ship
+- In the town square people are setting up stands for the festival of the changing of the seasons of the Illadran court
+- Tum Nus gets a floating glass ball that glows and follows him. It will become an inert glass ball by the end of the day
+- There is an offering bowl by a dragon statue
+	- Baloney offers some fur (he is wild shaped as a tree bear) and it disintegrates and wraps around the dragon statue. An eye opens on the statue and Baloney hears a voice in his head saying "blood of my blood"
+- We encounter a stall run by an elf named Zealia
+	- She brews potions and is kind of strange and eccentric
+	- Kohoku trades knowledge of creating some potions with some ingredients from the material plane
+	- He also trades for the recipe to enlarge/reduce potions
+	- Ugla trades the wine we got from Hannah Strist's basement to get a potion that allows him to use enhance ability
+- The Elven King and Queen, King Hesfrendil and Queen Salasasedri, enter. The king holds an elaborate staff
+- Ghilleah tells us part of the ceremony is that anyone who wishes may forfeit their magic and elven heritage and go die. Usually the elderly do this
+	- 3 elves choose to renounce their magic including the King's youngest son who is rumoured to have fallen in love with a mortal dragonborn
+	- Hesfrendil uses the staff on the statue and energy is absorbed from the 3 people into the statue
+	- People throw promises they have written into the fire that they hope to come true in the coming season
+		- Tum Nus promises to find out what happened to his family
+- We head to Bill's Tavern
+In Bill's Tavern
+- There is a human man behind the bar, the eponymous Bill
+- The inside of the tavern has paintings of various landscapes covering many planes including the Fae wilds and the material planes
+- Bill has been to many planes 
+- He says I'll be honest if you'll be honest and Kohoku shakes his hand. On shaking his hand he transforms into a demon
+	- He's a demon named Billiex, formerly known as the fleshpeeler and the soul dealer, from the hell's
+	- Ugla lied and Billiex said strike one
+	- We ask each other how we got here
+		- We tell him we got here via dragon stone
+		- He didn't want to be in the hells anymore and cut a deal with an archfiend Resnus Morgue, a soulblinder/blood finder. His soul is bound to this establishment, but his tavern can move about planes and locations.
+	- He asks us what we're doing here
+		- We say we're going to kill Guanchalleh as revenge for killing Tum Nus' village. He warns us that she is extremely powerful
+		- Baloney spills the beans that we've been sent by Perenum and that we're chasing after a minion of Quallo to find the books.
+	- Baloney asks him to examine the blood red ruby necklace
+		- Can send messages between the abyssal plane and material plane
+		- Blood inside is likely around 4 people
+		- Can be used for tracking people of whoever's blood is in it
+	- We ask him how we can travel planes
+		- He says every now and then he is able to move his tavern across planes and that in exchange for freeing him he would ferry us
+	- His contract
+		- His freedom is granted to him but he has to stay inside the tavern which is a demiplane itself. It can only house normal food or drink from that region or other regions he has access to. He is not bound to that archfiend anymore, but he's has to follow this. There is a clause about a higher ranking being cancelling the contract and creating one of their own. This includes gods like Perenum and Ballo
+			- We learn mortals can ascend to godhood
+	- He translates the parchment written in Abyssal from the Druid's Grove
+		- The black book is the book of revival
+		- The angel's wings is the celestial book
+		- The flayed skin is the book of flesh or control
+		- The skull with smoke coming out of its eyes is the book of destruction
+	- We ask him to inspect the flayed skin of Bang's goon containing Zello tattoo
+		- He says these are markings of control
+	- We ask how old is he
+		- He would be around 62,000 years old and predates the new gods (Ollo, Ballo, etc.)
+	- He says until we can come to a formal contract we are putting the honesty thing on pause (except for Kohoku and him who are bound eternally to tell the truth to each other)
+		- We learn all of us have some gods associated with us
+			- Baloney: Perenum
+			- Kohoku: Ballo
+			- Ugla: Korgo
+			- Tum Nus: Yasso
+			- Shroud: Unknown female old god, likely the pale woman
+	- We chat about the prince leaving for Freya, the dragonborn woman he gave up his elvish heritage for
+	- Shroud trades their book on flora and fauna from Renholt for a brochure on Hell written in infernal
+	- We pull out numinous and he asks if we've discovered this stuff again implying numinous has been discovered before in history and then forgotten again. He then does a line of it
+		- Ugla also snorts a line of numinous. His eyes go bloodshot and faint blue traces of energy from his eyes and mouth. He feels incredibly strong and energized in this moment. Small lights erupt from him and start orbiting us and we get +1 to our AC and are able to fly for the next 4 hours.
+- We go to sleep
+	- Baloney is awoken by the sound of a sky ship. Looking outside he sees the sky ship is floating towards one of the large cities in the distance. He sees a shadow pass over the moon. The crystals of the skyship start to glow and the skyship starts to careen and is split in half by a creature with massive leathery wings
 
 ### May 16, 2026
 The next morning
