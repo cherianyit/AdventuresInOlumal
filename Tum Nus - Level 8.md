@@ -7,11 +7,12 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (42/42)
+HP (42/42) + (13/13)
+
 Armour Class [13] = [13 base]
 Movement Speed [40]
-Spell Save DC [17] = [8 base] + [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial]
-Spell Attack Bonus [9] = [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial]
+Spell Save DC [19] = [8 base] + [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial] + [(2) Ancient Staff of the Eladran]
+Spell Attack Bonus [11] = [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial] + [(2) Ancient Staff of the Eladran]
 Hit Die [3/3]  [D6]
 Inspiration Die [0]
 Initiative modifier [8] = [Dexterity modifier] + [5 from Alert feat]
@@ -119,7 +120,7 @@ Survival (Wis) [+2]
 	- Allows user to swim/climb faster
 - Wand of Smiles [Baloney]
 	- Forces user to smile with some saving throw
-- Boots of Spiderclimb [ATTUNED]
+- Boots of Spiderclimb
 - Ring of Protection
 	- +1 to AC
 - Ring of Featherfall [ATTUNED]
@@ -175,6 +176,22 @@ Survival (Wis) [+2]
 	- +1 Spellcasting ability
 	- Once a day regain up to 5 sorcery points
 	- Character slot item (cannot be given to anyone else but does not require attunement)
+
+- Ancient staff of the Eladran
+	- This automatically attunes and does not cost an attunement slot
+	- +2 to Spell save/Spell attack
+	- Once per day can cast one of the following spells without spending a spell slot
+		- Greater Restoration
+		- Mass Healing Word
+		- Shield of Faith
+		- Heroes Feast
+			- You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast. 
+			- A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition), and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+	- Extract
+		- Can remove magic from a willing creature and refract it. 
+		- THIS INCLUDES CURSES
+	- Summon Spirit of the Eladran
+		- Once a day gain proficiency in all intelligence and wisdom based checks and skills for an hour
 
 ## Equipment
 - Explorer’s Pack
@@ -240,7 +257,7 @@ Survival (Wis) [+2]
 - Maps from Cillan's study depicting Numinous locations across the globe
 - Incriminating Documents from Judge Quiss
 	- Documents obtained from the mine that were written by Judge Quiss to finish the mine ASAP. Was not signed off on by the King and Queen
-- Black Ruby Amulet
+- Black Ruby Amulet [NOW DESTROYED]
 	- From Cillan's desk
 	- Caused Ugla to be possessed when he touched it
 	- Baloney is able to pick it up and not get possessed (he rolled well) and the Amulet speaks infernal in Baloney's mind
@@ -248,8 +265,14 @@ Survival (Wis) [+2]
 		- Can send messages between the abyssal plane and material plane
 		- Blood inside is likely around 4 people
 		- Can be used for tracking people of whoever's blood is in it
+		- Destroyed by Lorelai
 - Sending Stone to Hindriss
 - Sending Stone to Rizzo
+- Sending Stone Bracelet to King Hesfrendil and Queen Salasasedri
+- Amulet of Sequester
+	- By means of this spell a willing creature or item can be hidden away. It becomes invisible and cannot be detected by division or through scrying. While sequestered it will fall into a suspended state of animation where time does not flow. You must state a time for it to end, or it will not end.
+- Dragonborn scrolls on gem affliction
+	- Obtained by Evrend 
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -258,8 +281,8 @@ Survival (Wis) [+2]
 - 2 large Diamonds worth 500 each
 - 1 piece of ruby worth 150
 - 1 piece of sapphire worth 150
-- 2.5 pounds of raw Numinous
-- (4x) Small bag of Numinous
+- 2.25 pounds of raw Numinous
+- (3x) Small bag of Numinous
 - 4 Hagsbite doses worth of Frostsage
 	- Can be used to craft Hagsbite (2d10 poison damage)
 - 4 Hagsbite doses worth of Black Poppy
@@ -294,7 +317,6 @@ Survival (Wis) [+2]
 	- Obtained from Rancecleaver
 ## Spell Scrolls
 - Necromantic Spell Scroll
-- Scroll of False Life 
 - Scroll of Speak with Dead
 - Scroll of Vampiric Touch
 - Scroll of Divine Conversation
@@ -362,7 +384,7 @@ Always on the lookout for danger, you gain the following benefits:
 ### Equipment Passives
 [EQUIPMENT] Ring of Ultimate Resistance
 - [ATTUNED]
-- Immune to an element. Currently: Necrotic
+- Immune to an element. Currently: Psychic
 
 [EQUIPMENT] Bloodwell Vial
 - +1 Spellcasting ability
@@ -377,7 +399,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Tides of Chaos [Homebrew]  [1/1] 
+### Tides of Chaos [Homebrew]  [0/1] 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw of any allied target. Once you do so, you must finish a long rest before you can use this feature again.
 
 ### Sorcerous Restoration [1/1]
@@ -387,7 +409,7 @@ Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [8/8]
+### Sorcerous Abilities [6/8]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -410,7 +432,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Detect Magic
 - Chaos Bolt
 - Shield
-### Level 2 [3/3]
+### Level 2 [2/3]
 - Suggestion
 - Misty Step
 - Invisibility

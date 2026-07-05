@@ -11,10 +11,6 @@
 - Reported that Malcolm is staying away so we can't use that
 
 ## Personal Quests
-### Study of magic
-- Shroud has a magical scar on their hand because they stole from a shop. Through daily study Tum Nus can help to break the curse
-- Requires some kind of healing magic that we don't possess. Would require a holy person
-
 ### Literacy
 - Tum Nus is illiterate but is learning! Through daily study Tum Nus can help to learn to read
 	- Kohoku helped Tum Nus learn to read a bit!
@@ -48,6 +44,10 @@
 
 ## Done Quests
 
+### Study of magic
+- Shroud has a magical scar on their hand because they stole from a shop. Through daily study Tum Nus can help to break the curse
+- Requires some kind of healing magic that we don't possess. Would require a holy person
+- Tum Nus removed the magical scar using the ancient staff of the Eladran
 ### Traitor of Renholt
 - Reward 1000 G
 - TODO: Speak to guard about fugitive on the loose

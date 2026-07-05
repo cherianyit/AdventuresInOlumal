@@ -1,3 +1,142 @@
+### July 4, 2026
+At the Eladran court
+- Tum Nus is able to remove the thieves brand from Shrouds hand using the staff
+- We go back to Bill's and sleep
+	- Before we sleep Shroud makes a disguise similar to that that the native dragon borns of the Faewilds
+The next morning we head to Lorelai's
+- We trade some numinous for 2 items
+	- Scroll of Planar Binding
+	- Scroll of Hold Monster
+- Lorelai is 3000 years old or so
+- Lorelai gives us some super old note about emergency call for arms from the faewilds during the darkest hour
+	- This was given from the legendary Owlin Idrin Tallgrass who united everyone during the darkest hour
+	- The material plane did not receive assistance from the Faewild. 
+- Lorelai says we can get back when leylines get wacky like during solstices. 
+	- They cast a planar gate spell which killed one of its members on the way there and one of them on the way back
+- We ask Lorelai about Perenum
+	- She says the story is that Perenum traveled through the universe alone for those of his kind. He realized there were none and flew with such great speed that he created the world and species. First were the dragons, then the Eladran, then the Dragonborn.
+- We tell her everything about our journeys and she asks us to sit down and talk
+	- Lorelai disposes of the black amulet Baloney holds
+	- Lorelai tells us more about Perenum
+		- She says when something dies energy is released. She says the theory is that when a god dies the energy must go elsewhere. The theory of Perenum is that he was once the god of the material plane and died and created the faewilds in the wake of his death
+			- Baloney hears a growl in the back of his mind from Perenum
+		- She continues that the material plane has experienced this before and something keeps wiping the slate clean. She says the material plane has been 5000 years old or so multiple times
+		- She implies that everytime a cycle happens, a god dies and a new plane is created
+		- Baloney asks how old the Faewild is and Lorelai says it's around 90,000 years old
+	- We ask Lorelai about the books
+		- She says the books are 100's of thousands or millions of years old
+		- We ask Lorelai how to keep the books from being stolen if we get one
+			- She says we can use the bag of holding, but if he knows it's in there it's not great. She takes a book from a shelf and inside is an amulet with a hollow ring in the middle of it. She hits the ring and sees something shimmering in the middle of it. This is an Amulet of Sequester
+				- By means of this spell a willing creature or item can be hidden away. It becomes invisible and cannot be detected by division or through scrying. While sequestered it will fall into a suspended state of animation where time does not flow. You must state a time for it to end, or it will not end.
+				- We are given the amulet by promising her that we will prevent Quallo from attaining his goal of obtaining all the books
+		- She says the books contain the arcana of gods themselves and were written by Quallo himself during each reset. They contain the essence of a god themselves
+	- We talk about Quallo with Lorelai
+		- We recount our experience with Quallo and she is shocked as gods should not be corporeal and that they would have to swap places with something or someone. It seems like Quallo is currently not a god but has the powers of a god and that something else is currently the god of death.
+			- We suspect the pale woman and Lorelai says she is Elloveil who is a god of souls. She was one of the gods from one of the old ages of the material plane. Lorelai thought she shouldn't exist in the material plane as her realm is the ethereal plane, which was hers to create on her death in the material plane. 
+	- We learn Vincent Valure was part of the winter Eladran court and that we should seek him out when we get back
+	- She gives Shroud an Armor of Agathys spell scroll
+	- Tum Nus and Kohoku do a song and dance
+We gather the troops
+- The two war mages are named Telvenus and Arbri
+- The cleric is named Aoctavi
+- We use Heroes Feast
+We make our way to the dragonborn tunnels
+- We encounter two royal guards who are scouting
+- We see white smoke and Prince Helia says it's the dragonborn
+- Tum Nus uses suggestion on Prince Helia to remember all the correct customs to greet the dragonborns
+	- He stomps his feet twice and waits and a silver dragonborn addresses us
+	- Prince Helia says he wants to meet Freya Rainsback and the dragonborn goes back inside to find her
+	- He returns with a larger silver dragonborn wearing cleaner robes. This is Freya's father, Evrend Rainsback
+	- We tell him we are here to escort Prince Helia and on Perenum's order
+We enter the tunnels
+- It is dark but lit by mushrooms
+- Baloney smells some of the mushrooms that Kohoku are looking for
+- We enter the main chamber and chat with Evrend
+	- There is a fire and light and it resembles amphitheatre seating that goes downwards. At the bottom is an altar
+	- Helia tells Evrend he is seeing his daughter. Evrend sends for her
+	- We ask him about Guanchalleh and how we can help her
+		- We tell him that we want to rid her of this affliction
+		- He says they see the dragons as gods upon this world and are to be revered, respected, and left alone. They revere Perenum and the dragons of the Fae
+	- Baloney tells Evrend that Perenum has spoken to him and has brought him here with purpose and has intervened in a way that implies he should assist in the issue with Guanchalleh
+		- Evrend takes him to the altar of Perenum at the bottom of the room. Evrend recites a prayer to Perenum in draconic that tells how it is an honor to simply exist under Perenum.
+		- Baloney feels Perenum in the back of his mind. He says "my kin" and Baloney's ethereal wings erupt.
+- Freya enters the room and greets Prince Helia
+- Evrend asks some other dragonborn to gather the elders
+	- Baloney recants his story and tells them Perenum speaks to him and says he is his champion and that he wants to help the affliction of Guanchalleh
+	- We ask for assistance with understanding gem affliction and a dragonborn named Lithbow is summoned to go and fetch their texts on this
+	- Prince Helia says that is of interest to his mother and father of the Eladran court to maintain peace and help and support the dragonborn peoples. Helia says it is his understanding that the dragonborn live underground for religious purposes and that everyone is fine of that, but believe that sharing information they can grow together. 
+		- Evrend agrees to conversation and some shared knowledge, but no forcing of change or detraction from their way of being or traditions
+		- In draconic Evrend says that they will not shun the Eladran and will accept them as being different and their own
+	- Evrend dismisses everyone
+- Evrend asks us what we will do if we can't cure Guanchalleh
+	- We say we will do whatever we can to not kill her, which is why we are researching gem dragons, but will do what we must to fulfill Perenum's will
+	- Evrend says a large reason why they collapsed the tunnels to the mountains and more underground is because of Guanchalleh's aggression
+- We ask about a way back home and he says he has no knowledge of that
+- We ask about the Satyr village at the foot of the mountain
+	- He says it is known of the silent village because they are silent to not attract Guanchalleh's attention
+	- He says to exercise caution
+- We're escorted to our own room
+	- We read the scrolls on gem affliction
+		- It notes of a dragonborn 300 years ago who went out on a solstice who was a daydreamer above ground. He returned and had a fitful few nights of sleep and began to sprout red gems. This went on for a month or two before the gems grew too big for him to walk or move his arms and eventually killed him. During that time he would experience feverish dreams, nightmares, and lash out at those trying to help him which was out of character.
+		- It talks about Guanchalleh the green discussing her perceived age, size, diet, etc. We notice this is for a green dragon, not an emerald dragon. She used to be smaller and lighter and something has changed that. She used to forage for fish, sheep, and deer. They estimate her age to be around 740 years old. She disappeared for some time around 38 years ago before reappearing for a couple of years. When she returned she had gemstones after a few days (note: Baloney is around 38 years old)
+		- The next text is about sightings of Guanchalleh. They note a few disturbing things
+			- As early as 15 years ago she started interacting with some leyline energy areas much further south on the continent and that the location near us was only within the last year or two
+			- The gemstones stopped growing entirely 3 to 4 years after she came back and her body began to change. This is when she started to act in much more violent ways
+			- She would appear and kill things but not eat them
+		- Some 20 odd years ago they noticed that some Satyrs unknowingly made the trek to the forest near her lair. Within a year it would become known as the Silent Village
+		- There are talks about how the closer you get towards the mountain, the more you will see clusters of emerald gems growing. In the deeper tunnels towards the mountain people have experienced extreme headaches, bleeding from the nose, being lost and turned around, and in one case death.
+		- They note other creatures growing in size and becoming violent such as six legged lizards, rats, and snakes with larger concentrations closer to her lair.
+		- They tried to remove some of the emeralds from tunnels and noted that the emeralds were weak to thunder damage.
+
+### June 20, 2026
+Baloney is in the inn
+- Baloney sees a dragon flying which hits him with a psionic blast of some kind. Perenum shields him from being mentally probed and tells him to stand
+- Baloney wakes us with a psychic message
+- Prince Helia enters the tavern freaking out and asking for help
+	- He says the dragon is Guanchalleh the green death and is heading to one of the cities
+We make our way towards the Guanchalleh
+- Baloney turns into a giant eagle and carries us towards Guanchalleh
+- Fighting the dragon
+	- We see it has emeralds surrounding it. These gems are naturally occurring from plane hopping generally
+	- It does a ridiculous amount of psychic damage via a psychic breath attack
+	- It attacks one of the floating cities
+	- We delay it long enough for the city to defend against it and chase it away
+- We talk to the Prince and he arranges for us to have a meeting with the King and Queen. A military personnel guides us towards them
+- On our way over we notice that the city that had been damaged is slowly being repaired with magic
+- We pass through the royal garden and see lovely fruits and vegetables, some of which Tum Nus remembers from his youth
+- We enter a crystal and glass tower and go up several floors to see the King and Queen
+Speaking to the King and Queen
+- King is uncertain why the city was targeted
+	- He thinks that it may be because it was a night of change what with the changing of the seasons
+- King and Queen thinks there's no other option but killing the dragon
+- King says dragon resists fire and psychic and is imune to bludgeoning/slashing
+- King unsure if it is possible to heal Guanchalleh as she has been in this state for 25 years+
+	- King notes all dragons are born in the Faewild, but there was a time gap where her territory was empty and when she returned she began sprouting emeralds.
+	- Of the past 200 years there have only been a few attacks. Guanchalleh has been 3 of these in the past 25 years
+- We tell the King and Queen that Perenum speaks directly to us
+	- Tum Nus persuades them that we are getting direction from Perenum directly
+- The King and Queen advise us to talking to Lorelai who is the master of arcana, a mage, and a historian
+- Tum Nus detects that the queen is a sorcerer
+- The King gives us a bag of
+	- 4 small rubies
+	- 3 small sapphires
+	- 500 gold worth of diamonds
+	- 2 good sized chunks of topaz
+	- 8 small emeralds
+- We get a sending stone in the form of a bracelet from the King and Queen
+- The King and Queen agree to send some people with us
+	- They ask us to ask Lorelai
+	- They will send 2 war mages, 1 cleric of Perenum, Ghilleah, and Visieal
+- They haven't seen the undead figure in black that we chased into the Faewilds
+	- They ask a general to find all scout reports from the last 3 days (how long we've been in the Faewild)
+- Baloney asks about the staff used during the ritual where people give up their inherent elven heritage
+	- It disperses the energy amongst the leylines
+	- Baloney notes that this could be related to the energy spikes we see in the material planes
+	- The King notes that he does not know how old the staff is or what it fully does, but says it is not a sign of power but a sign of freedom
+	- Kohoku wonders if we can use the staff to get Guanchalleh to give up her magic
+		- We convince the King and Queen to give us the staff, and now Tum Nus (someone who is magical) owns it (The ancient staff of the Eladran)
+- The King casts Greater Restoration on Tum Nus
+	- Retconned turning back to normal from being blue
 ### May 24, 2026
 In Gertrude's Trinkets
 - Ugla trades a picture of his parents for an earring of alter self
@@ -17,7 +156,7 @@ Moving towards the town square
 - Tum Nus gets a floating glass ball that glows and follows him. It will become an inert glass ball by the end of the day
 - There is an offering bowl by a dragon statue
 	- Baloney offers some fur (he is wild shaped as a tree bear) and it disintegrates and wraps around the dragon statue. An eye opens on the statue and Baloney hears a voice in his head saying "blood of my blood"
-- We encounter a stall run by an elf named Zealia
+- We encounter a potion stall run by an elf named Zealia
 	- She brews potions and is kind of strange and eccentric
 	- Kohoku trades knowledge of creating some potions with some ingredients from the material plane
 	- He also trades for the recipe to enlarge/reduce potions
@@ -66,7 +205,7 @@ In Bill's Tavern
 			- Kohoku: Ballo
 			- Ugla: Korgo
 			- Tum Nus: Yasso
-			- Shroud: Unknown female old god, likely the pale woman
+			- Shroud: Elloveil, the female old god that we previously knew as the pale woman
 	- We chat about the prince leaving for Freya, the dragonborn woman he gave up his elvish heritage for
 	- Shroud trades their book on flora and fauna from Renholt for a brochure on Hell written in infernal
 	- We pull out numinous and he asks if we've discovered this stuff again implying numinous has been discovered before in history and then forgotten again. He then does a line of it
