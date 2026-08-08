@@ -1,3 +1,49 @@
+### August 8, 2026
+
+
+### July 12, 2026
+In the night
+- Baloney has strange dreams
+	- Baloney dreams of the voices of Perenum and the black amulet being destroyed by Lorelai.
+	- He feels a pain in his replaced finger and it feels cold
+	- He hears a voice in his head while he sleeps. The voice says "I have seen your blood, I have tasted it sweet and sublime."
+	- The voice says our gods don't help us and just grind themselves to dust trying to reset the world again. Quallo says that he will end the cycle and wants the world to continue. He says he would not reset it like other gods do as they want to ease their loneliness. 
+	- The voice confirms that Guanchalleh is Baloney's mom and says he can remove the curse from Guanchalleh and save her.
+The next morning
+- Baloney wakes up and tells the party about Quallo talking to him and tells us Quallo implied the other gods are what is causing the reset. He also says that Guanchalleh is his mother and Quallo can heal his mom likely.
+- We extract a gem from Baloney's leg to see if it grows back
+	- It seems like no gem is growing back
+	- Baloney ties the emerald on a string and drapes it between Tum Nus's horns
+- Kohoku gets some mushrooms
+We start excavating the tunnel
+- We're aided by some dragonborn. One named Yosala and another named Norc
+- Evrand says it should take 8 - 10 hours and then leaves
+- While excavating the tunnel we start to hear noises and feel psychic energy start to emanate around us giving some headaches
+- The voices start becoming a language which is understood to be that of the underdark, but it is hard to tell what the origin is
+	- We encounter a group of 3 feet tall grey creatures. They have hanging jowels and are completely hairless. These are grimlocks. Some of them have bits of emerald poking through their skin, specifically around their eyes.
+		- We kill them and get some emeralds
+- As we continue on we start suffering from psychic damage. Baloney and Tum Nus do not take damage because they are wearing emeralds. We fashion adornments from the rest of the party and keep going on.
+- We enter a new area with a large amount of emeralds everywhere
+	- Tum Nus casts chromatic orb with thunder damage targeting the emeralds. As he starts casting he sees something move above him. There are two stone like stalactites with several eyes on it and tentacles that are attacking. We are attacked by Ropers
+- Tum Nus casts chromatic orb and attacks the wall again
+	- When the orb hits Baloney has a flash and sees a dark robed figure drawing something on the ground and emeralds growing out of walls
+	- Tum  Nus throws a second orb that shatters the emerald. As he does time seems to stop for Baloney. He feels fingers on his shoulders and hears a whisper inside of his mind telling him to remember it his choice and he feels pain in every fragment of emerald on his body. He sees a cloaked figure hands aside and another flash of a large reptilian eye
+		- Baloney tells the party everything except for the choice
+- There is magical darkness and Tum Nus dispels it. There is a black robed figure in the middle of the room. Beneath him is an arcane circle drawing in the dirt that takes up a 20 foot radius. In the back corner of the room are two large owlbears with massive emerald protrusions. They appear to be undead.
+	- It looks similar to the figure we chased into the faewilds
+	- We disenchant and dominate beast the two owlbears and they fall dead as they were being controlled by something else
+	- Kohoku hits the barrier and Shroud sends an arrow at the barrier and it seemed to damage it. The figure in response raises his hands and the runes in the inner ring glows and the two owlbears revive.
+	- We defeat the figure. He is hairless with sigils all across his body.
+		- Shroud recognizes it as archaic necral and is necromantic
+		- In one pocket is a large chunk of emerald
+		- We flay him and get his skin with necral markings
+		- Inside him he has no heart, stomach or lungs. The vast majority of the insides are just intestines and he has gray flesh.
+		- On the inside of his bones are small markings etched in
+			- Kohoku notes this is written in primordial
+			- Like the sigils on the outside of the body the runes are about ownership, loyalty, and subservience
+		- The sigils on the ground are arcane markings of power that is drawing power from somewhere else than the faewilds. This is the beginnings of a teleportation circle.
+			- We ascertain this is a getaway car to hastily escape
+
 ### July 4, 2026
 At the Eladran court
 - Tum Nus is able to remove the thieves brand from Shrouds hand using the staff
@@ -9,7 +55,7 @@ The next morning we head to Lorelai's
 	- Scroll of Hold Monster
 - Lorelai is 3000 years old or so
 - Lorelai gives us some super old note about emergency call for arms from the faewilds during the darkest hour
-	- This was given from the legendary Owlin Idrin Tallgrass who united everyone during the darkest hour
+	- This was given from the legendary Akirian(a birdfolk from Akiri) Idrin Tallgrass who united everyone during the darkest hour
 	- The material plane did not receive assistance from the Faewild. 
 - Lorelai says we can get back when leylines get wacky like during solstices. 
 	- They cast a planar gate spell which killed one of its members on the way there and one of them on the way back
@@ -30,6 +76,7 @@ The next morning we head to Lorelai's
 				- By means of this spell a willing creature or item can be hidden away. It becomes invisible and cannot be detected by division or through scrying. While sequestered it will fall into a suspended state of animation where time does not flow. You must state a time for it to end, or it will not end.
 				- We are given the amulet by promising her that we will prevent Quallo from attaining his goal of obtaining all the books
 		- She says the books contain the arcana of gods themselves and were written by Quallo himself during each reset. They contain the essence of a god themselves
+			- This also implies Quallo has survived multiple resets
 	- We talk about Quallo with Lorelai
 		- We recount our experience with Quallo and she is shocked as gods should not be corporeal and that they would have to swap places with something or someone. It seems like Quallo is currently not a god but has the powers of a god and that something else is currently the god of death.
 			- We suspect the pale woman and Lorelai says she is Elloveil who is a god of souls. She was one of the gods from one of the old ages of the material plane. Lorelai thought she shouldn't exist in the material plane as her realm is the ethereal plane, which was hers to create on her death in the material plane. 
@@ -617,7 +664,7 @@ We attend the banquet
 - Several notable people
 	- Judge Quiss
 		- Germaphobe and quite strict. Wants harsher punishments for thieves
-	- Chancelor of Coin, Cran Bellos
+	- Chancellor of Coin, Cran Bellos
 		- Half orc man dressed in illustrious clothing, lots of gold ring, etc. Is already drunk. Bragging about current economic stability
 	- Osiry Draz
 		- Tiefling. Professor of the history of the arcana at Renholt University. Member of the royal council of Renholt. Is able to do magical carbon dating where she can tell when some magic is from. 

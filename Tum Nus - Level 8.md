@@ -7,13 +7,13 @@ Wisdom [14/+2]
 Charisma [20/+5]
 
 ## Resources
-HP (42/42) + (13/13)
+HP (18/42) + (0/13)
 
 Armour Class [13] = [13 base]
 Movement Speed [40]
 Spell Save DC [19] = [8 base] + [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial] + [(2) Ancient Staff of the Eladran]
 Spell Attack Bonus [11] = [Charisma modifier] + [Proficiency] + [(1) Bloodwell Vial] + [(2) Ancient Staff of the Eladran]
-Hit Die [3/3]  [D6]
+Hit Die [8/8]  [D6]
 Inspiration Die [0]
 Initiative modifier [8] = [Dexterity modifier] + [5 from Alert feat]
 
@@ -54,7 +54,6 @@ Survival (Wis) [+2]
 	- Can swap a spell out but costs 1 spell slot
 	- Current storage
 		- Fireball (Level 4)
-		- Sickening Radiance (Level 4)
 - Immovable Rod
 	- 2 foot long rod
 	- Has a button on one end. Can use an action to click the button which makes the rod not move.
@@ -130,7 +129,7 @@ Survival (Wis) [+2]
 	- Made from shadow
 	- Can be unlocked by radiant magic
 - Ring of Ultimate Resistance [ATTUNED]
-	- Everyday choose one of the following to become immune to
+	- Everyday choose one of the following to become resistant to
 		- 1 Acid [Pearl] 
 		- 2 Cold [Tourmaline] 
 		- 3 Fire [Garnet] 
@@ -176,8 +175,7 @@ Survival (Wis) [+2]
 	- +1 Spellcasting ability
 	- Once a day regain up to 5 sorcery points
 	- Character slot item (cannot be given to anyone else but does not require attunement)
-
-- Ancient staff of the Eladran
+- Ancient staff of the Eladran [Tum Nus]
 	- This automatically attunes and does not cost an attunement slot
 	- +2 to Spell save/Spell attack
 	- Once per day can cast one of the following spells without spending a spell slot
@@ -273,6 +271,10 @@ Survival (Wis) [+2]
 	- By means of this spell a willing creature or item can be hidden away. It becomes invisible and cannot be detected by division or through scrying. While sequestered it will fall into a suspended state of animation where time does not flow. You must state a time for it to end, or it will not end.
 - Dragonborn scrolls on gem affliction
 	- Obtained by Evrend 
+- Flesh Suit
+	- Flayed from cloaked figure in the faewilds
+	- Covered in Necral
+- Cloaked figure's rib and vertabrae
 ## Materials
 - Perfect Dire Wolf Pelt
 - 12x Shark Teeth
@@ -301,7 +303,11 @@ Survival (Wis) [+2]
 	- Obtained from Tavern in Strock
 - 16 fruit
 	- 8 different types, 2 of each kind
-	- Originated from a magic bean used in the Faewild. 
+	- Originated from a magic bean used in the Faewild
+- 1 d6 sized emerald
+	- From Baloney's leg
+- 1/2 pound of emeralds
+	- From Grimlocks in Faewild underground
 ## Misc
 - Pub Darts
 - Brass Bracelet
@@ -324,6 +330,8 @@ Survival (Wis) [+2]
 	- Recognize that this is celestial adjacent and has arcanic symbols. Appears to be a scroll of some divinity based magic, but doesn't appear to be anything of nefarious origin or dealing damage. 
 	- 6th level spell
 	- For 10 minutes you can converse with a divine realm. pretty open ended
+- Scroll of Hold Monster
+- Scroll of Planar Binding
 
 ## Potions
 - Health Potion (x3)
@@ -345,8 +353,6 @@ Survival (Wis) [+2]
 - Potion of Radiance [Kohoku]
 
 ## Items requiring investigation
-- 1 bottle of milky, cummy fluid that glitters brightly
-	- From Cillan's desk
 
 ## Money
 - CP: 
@@ -380,11 +386,14 @@ Always on the lookout for danger, you gain the following benefits:
 - Ring of Ultimate Resistance
 - Amulet of the Drunkard
 - Crystal of Containment
+- Bloodwell Vial [Auto attuned]
+- Ancient Staff of the Eladran [Auto attuned]
+- 
 
-### Equipment Passives
+### Equipment Passives/Actives
 [EQUIPMENT] Ring of Ultimate Resistance
 - [ATTUNED]
-- Immune to an element. Currently: Psychic
+- Resistance to an element. Currently: Psychic 
 
 [EQUIPMENT] Bloodwell Vial
 - +1 Spellcasting ability
@@ -392,7 +401,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 ## Active
 
-### Innate Sorcery [2/2]
+### Innate Sorcery [1/2]
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 - The spell save DC of your Sorcerer spells increases by 1.
 - You have Advantage on the attack rolls of Sorcerer spells you cast.
@@ -402,14 +411,14 @@ You can use this feature twice, and you regain all expended uses of it when you 
 ### Tides of Chaos [Homebrew]  [0/1] 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw of any allied target. Once you do so, you must finish a long rest before you can use this feature again.
 
-### Sorcerous Restoration [1/1]
+### Sorcerous Restoration [0/1]
 Once per long rest, when you finish a short rest you can regain expended Sorcery Points equal to half your sorcerer level rounded down. 
 
 Ram - 1d6 + Strength bludgeoning damage
 
 Mirthful Leaps - d8 when jumping and add to feet covered
 
-### Sorcerous Abilities [6/8]
+### Sorcerous Abilities [0/8]
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
@@ -427,7 +436,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Shape Water
 - Frostbite
 - Shocking Grasp
-### Level 1 [4/4]
+### Level 1 [1/4]
 - Chromatic Orb
 - Detect Magic
 - Chaos Bolt
@@ -436,10 +445,10 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 - Suggestion
 - Misty Step
 - Invisibility
-### Level 3 [3/3]
+### Level 3 [0/3]
 - Fireball
 - Counterspell
 - Dispel Magic
-### Level 4 [1/1]
+### Level 4 [0/1]
 - Sickening Radiance
 - Banishment
